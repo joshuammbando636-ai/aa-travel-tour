@@ -1,0 +1,23 @@
+{
+  "header": {
+    "title": "About Us",
+    "subtitle": "100% Tanzanian Owned & Managed"
+  },
+  "whoWeAre": {
+    "title": "Who We Are",
+    "paragraph1": "AA Travel & Tours Ltd has established a reputation as one of the best Tours and Travel operators in Tanzania. We aim to deliver complete customer satisfaction, leading to long-term client relationships.",
+    "paragraph2": "Our client is someone looking for that \"little bit extra.\" We don't just offer the standard tourist itinerary but rather will tailor-make a customized itinerary to suit your needs, interests, and budget.",
+    "paragraph3": "As a 100% Tanzanian owned and managed company, we bring unparalleled local expertise and genuine passion for sharing the beauty of our homeland with the world."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To be an easy and friendly company to deal with, understanding the frustrations of business travel and giving clients simple, quick, and efficient solutions."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": "To be a reputable market leader with continuous success in the travel and tourism industry."
+  },
+  "cta": {
+    "button": "Get In Touch"
+  }
+}

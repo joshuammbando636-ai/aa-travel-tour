@@ -1,0 +1,76 @@
+{
+  "header": {
+    "badge": "Sustainable Travel",
+    "title": "Eco Calculator",
+    "subtitle": "Estimate your trip's carbon footprint & offset naturally"
+  },
+  "form": {
+    "title": "Calculate Your Footprint",
+    "tripStyle": "Trip Style",
+    "duration": "Duration",
+    "groupSize": "Group Size",
+    "transport": "Main Transport",
+    "calculate": "Calculate Footprint",
+    "calculating": "Calculating...",
+    "days": "days",
+    "day": "day",
+    "person": "person",
+    "people": "people"
+  },
+  "tripTypes": {
+    "budget": "Budget",
+    "mid": "Mid-Range",
+    "luxury": "Luxury"
+  },
+  "transportTypes": {
+    "flight": "Flights",
+    "drive": "Safari Vehicle",
+    "mixed": "Mixed"
+  },
+  "results": {
+    "title": "Estimated Carbon Footprint",
+    "unit": "kg CO₂",
+    "treesToOffset": "Trees to offset:",
+    "trees": "trees",
+    "offset": "Offset with Tree Planting",
+    "breakdown": {
+      "transport": "Transport",
+      "accommodation": "Accommodation",
+      "activities": "Activities",
+      "food": "Food & Other"
+    }
+  },
+  "comparisons": {
+    "excellent": "🌱 Excellent! Lower than average safari footprint.",
+    "good": "👍 Good! Within average range for Tanzania safaris.",
+    "consider": "💡 Consider offsetting this trip with our tree planting program."
+  },
+  "ecoTips": {
+    "budget": "Budget safaris use shared vehicles and camping — lower footprint!",
+    "mid": "Mid-range lodges often have solar power and water conservation.",
+    "luxury": "Luxury lodges offset carbon, but private transport increases footprint.",
+    "flight": "Consider combining flights with road transfers to reduce emissions.",
+    "drive": "Safari vehicles are efficient — you're already making a good choice!",
+    "mixed": "Smart combination! Mixing transport types balances convenience and footprint."
+  },
+  "placeholder": {
+    "text": "Fill out the form and click calculate to see your trip's carbon footprint"
+  },
+  "initiatives": {
+    "tree": {
+      "title": "Tree Planting",
+      "description": "We plant 5 trees for every safari booked through our reforestation partners."
+    },
+    "carbon": {
+      "title": "Carbon Offset",
+      "description": "Optional carbon offset program available for all our travel packages."
+    },
+    "water": {
+      "title": "Clean Water",
+      "description": "Supporting clean water projects in communities near national parks."
+    }
+  },
+  "footer": {
+    "note": "* Calculations based on UNFCCC and sustainable travel guidelines. Actual footprint may vary."
+  }
+}

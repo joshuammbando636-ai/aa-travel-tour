@@ -1,0 +1,21 @@
+{
+  "brand": {
+    "title": "AA TRAVEL & TOURS",
+    "description": "Connectez-vous aux 7 Continents avec Nous. 100% Tanzanien - propriété et exploitation locales.",
+    "welcome": "Karibu Sana! 🇹🇿"
+  },
+  "quickLinks": {
+    "title": "Liens Rapides",
+    "home": "Accueil",
+    "airTicketing": "Billets d'Avion",
+    "safari": "Destination Safari",
+    "cmt": "CMT",
+    "visa": "Visa",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "follow": {
+    "title": "Suivez-Nous"
+  },
+  "copyright": "© {year} AA TRAVEL & TOURS LIMITED. Tous droits réservés."
+}

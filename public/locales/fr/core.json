@@ -1,0 +1,16 @@
+{
+  "section": {
+    "badge": "Nos Principes",
+    "title": "Pourquoi Nous Choisir"
+  },
+  "values": [
+    { "label": "Prestataires de Services de Premier Ordre" },
+    { "label": "Précis & Perspicace" },
+    { "label": "Crédible & Digne de Confiance" },
+    { "label": "Solutions Économiques" },
+    { "label": "Services Multitâches 24/7" },
+    { "label": "Relations Solides avec les Compagnies Aériennes" },
+    { "label": "Personnel Compétent" },
+    { "label": "Service Client Inégalé" }
+  ]
+}

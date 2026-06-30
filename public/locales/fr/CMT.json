@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Solutions de Voyage d'Affaires Simplifiées",
+    "subtitle": "Gestion de voyages d'affaires complète avec support dédié, tarifs préférentiels et conditions de crédit flexibles."
+  },
+  "services": {
+    "title": "Services de Voyage d'Affaires",
+    "subtitle": "Solutions de voyage d'affaires complètes adaptées aux besoins de votre entreprise",
+    "items": [
+      {
+        "title": "Billeterie d'Affaires",
+        "description": "Vols en classe affaires et économique à tarifs réduits avec politiques de changement flexibles et support de rebooking 24/7."
+      },
+      {
+        "title": "Support Après Heures",
+        "description": "Support d'urgence 24/7 quand vous avez besoin de nous, jour et nuit, y compris week-ends et jours fériés."
+      },
+      {
+        "title": "Conseiller Dédié",
+        "description": "Votre gestionnaire de voyage personnel qui comprend les besoins uniques de votre entreprise."
+      },
+      {
+        "title": "Offres Spéciales",
+        "description": "Tarifs négociés exclusifs avec compagnies aériennes, hôtels et sociétés de location pour clients corporate."
+      },
+      {
+        "title": "Réservations Hôtelières",
+        "description": "Réservations d'hôtels locales et mondiales à tarifs préférentiels avec meilleures garanties disponibles."
+      },
+      {
+        "title": "Assurance Voyage",
+        "description": "Packages d'assurance voyage complets pour la tranquillité d'esprit de chaque voyage d'affaires."
+      },
+      {
+        "title": "Service d'Accueil",
+        "description": "Service d'accueil VIP à l'aéroport pour vos cadres et invités dans les principaux aéroports."
+      },
+      {
+        "title": "Assistance Visa",
+        "description": "Traitement expert de visas et support documentaire pour toutes les destinations d'affaires mondiales."
+      },
+      {
+        "title": "Facilité de Crédit",
+        "description": "Facilité de crédit de 15-30 jours disponible pour comptes corporate qualifiés avec facturation mensuelle consolidée."
+      },
+      {
+        "title": "Gestion des Dépenses",
+        "description": "Reporting simplifié et facturation consolidée pour votre équipe financière avec détails détaillés."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à Simplifier Vos Voyages d'Affaires ?",
+    "subtitle": "Laissez-nous concevoir un programme de voyages d'affaires qui fait économiser temps et argent à votre entreprise tout en offrant un service exceptionnel.",
+    "button": "Obtenir un Devis Corporate",
+    "email": "Email",
+    "phone": "Téléphone"
+  }
+}

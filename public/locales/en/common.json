@@ -1,0 +1,26 @@
+{
+  "nav_home": "Home",
+  "nav_air": "Air Ticketing",
+  "nav_cmt": "CMT",
+  "nav_visa": "Visa",
+  "nav_about": "About Us",
+  "nav_contact": "Contact",
+  "nav_explorer": "Explorer",
+  "nav_safari": "Safari Destination",
+  "nav_calendar": "Wildlife Calendar",
+  "nav_eco": "Eco Calculator",
+  "nav_blog": "Blog",
+  "nav_book": "Book Now",
+  "read_more": "Read More",
+  
+  "hero": {
+    "badge": "AA Travel & Tours",
+    "title": "Be Connected to the 7 Continents with Us",
+    "titleHighlight": "7 Continents",
+    "subtitle": "100% Tanzanian owned. Tailor-made safaris, luxury car rentals & unforgettable experiences.",
+    "buttons": {
+      "plan": "Plan Your Safari",
+      "explore": "Explore Packages"
+    }
+  }
+}

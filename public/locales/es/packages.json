@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "title": "Descubre Tu",
+    "highlight": "Próxima Aventura",
+    "subtitle": "Experiencias de viaje seleccionadas para las próximas vacaciones. ¡Reserve ahora y ahorre!"
+  },
+  "sections": {
+    "featured": "Ofertas Especiales para Eid y Pascua",
+    "whyChoose": "Por Qué Viajar Con Nosotros"
+  },
+  "labels": {
+    "perPerson": "por persona*",
+    "packageId": "ID del Paquete",
+    "duration": "Duración",
+    "validity": "Validez",
+    "inclusions": "Incluye",
+    "availableDates": "Fechas Disponibles",
+    "sendInquiry": "Enviar Consulta"
+  },
+  "packages": [
+    {
+      "id": 1,
+      "region": "Europa",
+      "title": "EMPRENDE EL VIAJE ESCÉNICO POR EUROPA",
+      "description": "Experimenta el romance de Francia, el encanto de Bélgica, los canales de Países Bajos, la historia de Alemania, los Alpes suizos, el principado de Liechtenstein, la cultura de Austria y la pasión de Italia en este completo tour europeo.",
+      "duration": "Tour Multi-País",
+      "countries": ["Francia", "Bélgica", "Países Bajos", "Alemania", "Suiza", "Liechtenstein", "Austria", "Italia"],
+      "inclusions": ["Alojamiento en hotel", "Desayuno + Cena", "Traslados aeropuerto", "Visitas turísticas", "Servicio de guía acompañante"]
+    },
+    {
+      "id": 2,
+      "region": "China",
+      "title": "FERIA DE CANTÓN 2026 CHINA",
+      "description": "¡Perfecto para viajeros de negocios! Visite la reconocida Feria de Cantón con cómodo alojamiento de 4 estrellas y servicio de traslado sin interrupciones hacia y desde el recinto ferial. Incluye tour por la ciudad de Guangzhou y traslados de ida y vuelta al aeropuerto.",
+      "duration": "6 Noches/7 Días",
+      "inclusions": [
+        "6N alojamiento en China en hotel 4 estrellas",
+        "Tour por la ciudad de Guangzhou",
+        "Servicio de traslado hacia/desde la Feria de Cantón",
+        "Traslados de ida y vuelta al aeropuerto"
+      ],
+      "note": "Las tarifas de los paquetes están sujetas a fluctuaciones en el tipo de cambio. Todas las habitaciones, tarifas y servicios están sujetos a disponibilidad en el momento de la confirmación."
+    },
+    {
+      "id": 3,
+      "region": "Sudáfrica",
+      "title": "CELEBRA LA PASCUA EN EL DESTINO MÁS ICÓNICO - SUDÁFRICA",
+      "description": "Celebra la Pascua en el destino más emblemático con una combinación perfecta de lujo y aventura.",
+      "duration": "6 Noches/7 Días",
+      "locations": ["Johannesburgo", "Sun City", "Pilanesberg"],
+      "inclusions": [
+        "3N alojamiento en Johannesburgo en Peermont D'Oreale Grande o similar (régimen desayuno)",
+        "3N alojamiento en Sun City en Cascades Hotel o similar (régimen desayuno)",
+        "2N alojamiento en Pilanesberg en Ivory Tree Lodge o similar (régimen desayuno)",
+        "Acceso gratuito a Sun City Resort",
+        "Entrada al Valley of Waves"
+      ]
+    },
+    {
+      "id": 4,
+      "region": "Sudáfrica",
+      "title": "EXPLORA UNA EXPERIENCIA DE SAFARI INMERSIVA - SUDÁFRICA",
+      "description": "Vive la aventura safari definitiva con safaris, tours por viñedos y vistas impresionantes.",
+      "duration": "6 Noches/7 Días",
+      "locations": ["Ciudad del Cabo", "Reserva de Caza Aquila"],
+      "inclusions": [
+        "4N alojamiento en Ciudad del Cabo en Hotel Sky (4 estrellas) o similar en régimen desayuno",
+        "2N alojamiento en Reserva Aquila en hotel 4 estrellas o similar en pensión completa",
+        "Safari por la tarde en vehículo 4x4 abierto",
+        "Tour por Table Mountain y la ciudad",
+        "Tour por viñedos",
+        "Tour por la Península del Cabo"
+      ],
+      "note": "Las fluctuaciones del tipo de cambio pueden afectar las tarifas de los paquetes. En el momento de la confirmación, la disponibilidad afecta todas las habitaciones, tarifas y servicios. Las tarifas no aplican para eventos, ferias comerciales, fines de semana largos, festivales o fechas restringidas."
+    },
+    {
+      "id": 5,
+      "region": "Sudáfrica",
+      "title": "CELEBRA LA PASCUA CON UNA AVENTURA DE VIDA SILVESTRE INOLVIDABLE",
+      "description": "Vive emocionantes safaris y encuentros cercanos con la magnífica vida silvestre de África en el Parque Nacional Kruger.",
+      "duration": "3 Noches/4 Días",
+      "locations": ["Parque Nacional Kruger"],
+      "inclusions": [
+        "3N alojamiento en Kruger en Kruger Gate Lodge o similar en media pensión",
+        "Safari por la tarde en Kruger el día 1",
+        "Safari programado de día completo en Kruger los días 2 y 3",
+        "Safari matutino en Kruger el día 4",
+        "Vehículo de lujo con aire acondicionado para traslados",
+        "Vehículo safari 4x4 abierto para actividades en Kruger",
+        "Servicios de conductor de habla inglesa solo para traslados de regreso",
+        "Servicios de guía de safari de habla inglesa para actividades en Kruger",
+        "Safari día completo 05:30-16:00 (abr-sep) y 05:00-15:30 (oct-mar)",
+        "Safari matutino 05:30-12:00 (abr-sep) y 05:00-11:30 (oct-mar)",
+        "Safari tarde 13:00-17:30 (may-jul) y 14:00-18:00 (ago-abr)"
+      ],
+      "note": "Las tarifas de los paquetes están sujetas a fluctuaciones en el tipo de cambio. Todas las habitaciones, tarifas y servicios están sujetos a disponibilidad en el momento de la confirmación."
+    },
+    {
+      "id": 6,
+      "region": "Dubái",
+      "title": "VIVE UNA CELEBRACIÓN PREMIUM DE EID AL FITR EN DUBAI",
+      "description": "Celebra el Eid con estilo con alojamientos de lujo, safaris por el desierto y atracciones emblemáticas de Dubái.",
+      "duration": "5 Noches/6 Días",
+      "locations": ["Dubái"],
+      "inclusions": [
+        "5N alojamiento – Alojamiento y desayuno",
+        "Tour de medio día por Dubái (Trio)",
+        "Cena BBQ en crucero por Marina Dhow (Trio)",
+        "Safari por el desierto con cena BBQ (Trio)",
+        "Dubai Frame – Traslados SIC",
+        "Visita al piso 124 del Burj Khalifa (horario no prime)",
+        "Acuario de Dubái y Zoológico Submarino",
+        "Boleto Combo – SIC",
+        "Entrada a Miracle Garden + Global Village – SIC",
+        "Traslados de ida y vuelta al aeropuerto – Privado",
+        "Todos los tours y traslados"
+      ],
+      "priceNote": "Por persona (base habitación doble/twin)"
+    },
+    {
+      "id": 7,
+      "region": "Sudáfrica",
+      "title": "RESERVA TU ESCAPADA DE PASCUA A LA NACIÓN ARCOÍRIS",
+      "description": "Experimenta la belleza de Sudáfrica con visitas a pueblos culturales, Sun City y el Valley of Waves.",
+      "duration": "4 Noches/5 Días",
+      "locations": ["Johannesburgo", "Sun City"],
+      "inclusions": [
+        "1N alojamiento en Johannesburgo en hotel Metcourt o similar (régimen desayuno)",
+        "3N alojamiento en Sun City en Cabanas o similar (régimen desayuno)",
+        "Acceso gratuito a Peermont resort",
+        "Acceso gratuito a Sun City Resort",
+        "Acceso gratuito al parque acuático Valley of Waves",
+        "Tarifas de entrada al pueblo cultural Lesedi",
+        "Servicios de un guía de habla inglesa durante todo el tour",
+        "Vehículo de lujo con aire acondicionado para 20 pax. Esto incluirá: 1 guía local FOC + 1 acompañante FOC"
+      ]
+    },
+    {
+      "id": 8,
+      "region": "Sudáfrica",
+      "title": "RESERVA UNA ESCAPADA DE PASCUA A SUN CITY",
+      "description": "Disfruta de una escapada relajante de Pascua con acceso gratuito a las comodidades de clase mundial de Sun City.",
+      "duration": "4 Noches/5 Días",
+      "locations": ["Johannesburgo", "Sun City"],
+      "inclusions": [
+        "1N alojamiento en Johannesburgo en Mondior Concorde o similar (régimen desayuno)",
+        "3N alojamiento en Sun City en Cascades Hotel o similar (régimen desayuno)",
+        "Acceso gratuito a Peermont resort",
+        "Acceso gratuito a Sun City Resort",
+        "Acceso gratuito al parque acuático Valley of Waves"
+      ],
+      "note": "Las tarifas de los paquetes están sujetas a fluctuaciones en el tipo de cambio. Todas las habitaciones, tarifas y servicios están sujetos a disponibilidad."
+    }
+  ],
+  "whyChoose": [
+    { "title": "Mejor Precio Garantizado", "desc": "Precios imbatibles en todos los paquetes" },
+    { "title": "Guías Expertos", "desc": "Expertos locales con profundo conocimiento" },
+    { "title": "Soporte 24/7", "desc": "Asistencia las 24 horas" },
+    { "title": "Reserva Flexible", "desc": "Cancelación gratuita y cambios de fecha" }
+  ]
+}

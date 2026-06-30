@@ -1,0 +1,143 @@
+{
+  "header": {
+    "title": "Nuestro Blog",
+    "subtitle": "Historias de viaje y guías"
+  },
+  "packages": {
+    "title": "Paquetes de Viaje Destacados",
+    "moreInfo": "Más Información",
+    "bookNow": "Reservar Este Paquete",
+    "startingFrom": "Desde",
+    "tourHighlights": "Destacados del Tour",
+    "dailyItinerary": "Itinerario Diario",
+    "whatsIncluded": "Qué Incluye",
+    "additionalDetails": {
+      "hotel": "Hotel",
+      "bestTime": "Mejor Época",
+      "groupSize": "Tamaño del Grupo"
+    }
+  },
+  "blog": {
+    "title": "Artículos Recientes",
+    "readMore": "Leer",
+    "author": "Autor",
+    "loadMore": "Cargar Más Artículos",
+    "backToBlog": "Volver al Blog"
+  },
+  "posts": [
+    {
+      "title": "La Gran Migración: Todo lo que Necesitas Saber",
+      "excerpt": "Descubre la mejor época para presenciar la migración de ñus en el Serengeti y Masai Mara.",
+      "author": "Sarah Johnson",
+      "date": "15 de Marzo, 2025",
+      "readTime": "5 min de lectura",
+      "category": "Guía de Safari",
+      "tags": ["Serengeti", "Migración", "Vida Silvestre"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "title": "Escalar el Monte Kilimanjaro: Consejos para Primerizos",
+      "excerpt": "Consejos esenciales de preparación y rutas para conquistar el pico más alto de África.",
+      "author": "Michael Chen",
+      "date": "10 de Marzo, 2025",
+      "readTime": "7 min de lectura",
+      "category": "Aventura",
+      "tags": ["Kilimanjaro", "Senderismo", "Aventura"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "title": "Parque Nacional Kitulo: El Jardín de Dios de Tanzania",
+      "excerpt": "Explora el paraíso botánico de la Meseta de Kitulo, hogar de espectaculares exhibiciones de flores silvestres y paisajes alpinos únicos.",
+      "author": "Emma Williams",
+      "date": "5 de Marzo, 2025",
+      "readTime": "4 min de lectura",
+      "category": "Naturaleza",
+      "tags": ["Kitulo", "Flores Silvestres", "Senderismo", "Botánica"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    }
+  ],
+  "packageDetails": {
+    "europe": {
+      "title": "EMPRENDE EL VIAJE ESCÉNICO POR EUROPA",
+      "region": "Europa",
+      "duration": "12 Días/10 Noches",
+      "price": "$3,199*",
+      "basis": "Por persona en base habitación doble/twin",
+      "highlights": [
+        "Visita a la Torre Eiffel con brindis de champán",
+        "Crucero por los canales de Ámsterdam",
+        "Viaje panorámico en tren por los Alpes Suizos",
+        "Visita a la Ciudad del Vaticano incluyendo Capilla Sixtina",
+        "Paseo en góndola en Venecia",
+        "Excursión a las Cataratas del Rin"
+      ],
+      "itinerary": [
+        "Días 1-2: París - Torre Eiffel, Museo del Louvre, Crucero por el Sena",
+        "Día 3: Bruselas - Grand Place, Atomium",
+        "Día 4: Ámsterdam - Crucero por canales, Casa de Ana Frank",
+        "Días 5-6: Berlín - Puerta de Brandeburgo, Muro de Berlín",
+        "Días 7-8: Alpes Suizos - Jungfraujoch, Interlaken",
+        "Día 9: Liechtenstein - Castillo de Vaduz",
+        "Día 10: Viena - Palacio Schönbrunn",
+        "Días 11-12: Roma - Coliseo, Ciudad del Vaticano"
+      ],
+      "inclusions": ["Alojamiento en hotel", "Desayuno + Cena", "Traslados aeropuerto", "Visitas turísticas", "Servicio de guía acompañante"],
+      "accommodation": "Hoteles 4 estrellas en ubicaciones céntricas",
+      "bestTime": "Mayo a Septiembre",
+      "groupSize": "Grupos pequeños de 15-20"
+    },
+    "southAfrica": {
+      "title": "CELEBRA LAS VACACIONES DE EID CON UNA ESCAPADA ALEGRE",
+      "region": "Sudáfrica",
+      "duration": "4 Noches/5 Días",
+      "price": "USD344*",
+      "basis": "por persona en base habitación doble/twin",
+      "highlights": [
+        "Tour por el township de Soweto incluyendo Casa de Mandela",
+        "Safaris matutinos y vespertinos en Pilanesberg",
+        "Complejo de entretenimiento y casino Sun City",
+        "Actuaciones de danza cultural",
+        "Visita a la Cuna de la Humanidad"
+      ],
+      "itinerary": [
+        "Día 1: Llegada a Johannesburgo - Traslado a Sun City",
+        "Día 2: Parque Nacional Pilanesberg - Safaris",
+        "Día 3: Sun City - Valley of Waves, Casino",
+        "Día 4: Tour por Soweto - Casa de Mandela, Calle Vilakazi",
+        "Día 5: Salida"
+      ],
+      "inclusions": ["Alojamiento 4N en Johannesburgo en hotel 3 estrellas/similar", "Visitas turísticas y experiencias culturales", "Acceso gratuito al complejo Peermont"]
+    },
+    "egypt": {
+      "title": "CELEBRA EID CON UN VIAJE POR LAS MARAVILLAS ANTIGUAS",
+      "region": "Egipto",
+      "duration": "4 Noches/5 Días",
+      "price": "USD 780*",
+      "basis": "por persona en base habitación doble/twin",
+      "highlights": [
+        "Visita a las Pirámides de Giza y la Esfinge",
+        "Museo Egipcio con los tesoros de Tutankamón",
+        "Complejo de los templos de Luxor y Karnak",
+        "Paseo en globo aerostático sobre el Valle de los Reyes",
+        "Paseo en faluca por el Nilo"
+      ],
+      "itinerary": [
+        "Día 1: El Cairo - Pirámides de Giza, Esfinge",
+        "Día 2: El Cairo - Museo Egipcio, Khan El Khalili",
+        "Día 3: Vuelo a Luxor - Templo de Karnak, Templo de Luxor",
+        "Día 4: Luxor - Valle de los Reyes, Templo de Hatshepsut",
+        "Día 5: Regreso a El Cairo para salida"
+      ],
+      "inclusions": [
+        "3N alojamiento en El Cairo en Pyramids Park Resort/similar (régimen desayuno)",
+        "1N alojamiento en Luxor en Aracan Luxor Hotel/similar (régimen desayuno)",
+        "Todos los traslados en El Cairo y Luxor",
+        "Guía egiptólogo experto multilingüe",
+        "Todos sus tours y excursiones con vehículo con aire acondicionado",
+        "Servicio de recepción y asistencia en todos sus destinos",
+        "Todas sus visitas incluyen derechos de entrada",
+        "Nuestros precios incluyen todos los impuestos y servicios"
+      ]
+    }
+  }
+}

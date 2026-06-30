@@ -1,0 +1,26 @@
+{
+  "nav_home": "Accueil",
+  "nav_air": "Billets d'avion",
+  "nav_cmt": "CMT",
+  "nav_visa": "Visa",
+  "nav_about": "À propos",
+  "nav_contact": "Contact",
+  "nav_explorer": "Explorer",
+  "nav_safari": "Destination Safari",
+  "nav_calendar": "Calendrier de la faune",
+  "nav_eco": "Calculateur Éco",
+  "nav_blog": "Blog",
+  "nav_book": "Réserver",
+  "read_more": "Lire la suite",
+  
+  "hero": {
+    "badge": "AA Travel & Tours",
+    "title": "Connectez-vous aux 7 Continents avec Nous",
+    "titleHighlight": "7 Continents",
+    "subtitle": "100% Tanzanien. Safaris sur mesure, location de voitures de luxe et expériences inoubliables.",
+    "buttons": {
+      "plan": "Planifiez Votre Safari",
+      "explore": "Explorez les Forfaits"
+    }
+  }
+}

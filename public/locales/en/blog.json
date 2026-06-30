@@ -1,0 +1,143 @@
+{
+  "header": {
+    "title": "Our Blog",
+    "subtitle": "Travel stories & guides"
+  },
+  "packages": {
+    "title": "Featured Travel Packages",
+    "moreInfo": "More Information",
+    "bookNow": "Book This Package Now",
+    "startingFrom": "Starting from",
+    "tourHighlights": "Tour Highlights",
+    "dailyItinerary": "Daily Itinerary",
+    "whatsIncluded": "What's Included",
+    "additionalDetails": {
+      "hotel": "Hotel",
+      "bestTime": "Best Time",
+      "groupSize": "Group Size"
+    }
+  },
+  "blog": {
+    "title": "Latest Articles",
+    "readMore": "Read",
+    "author": "Author",
+    "loadMore": "Load More Articles",
+    "backToBlog": "Back to Blog"
+  },
+  "posts": [
+    {
+      "title": "The Great Migration: Everything You Need to Know",
+      "excerpt": "Discover the best time to witness the wildebeest migration in Serengeti and Masai Mara.",
+      "author": "Sarah Johnson",
+      "date": "March 15, 2025",
+      "readTime": "5 min read",
+      "category": "Safari Guide",
+      "tags": ["Serengeti", "Migration", "Wildlife"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "title": "Climbing Mount Kilimanjaro: Tips for First-Timers",
+      "excerpt": "Essential preparation tips and routes for conquering Africa's highest peak.",
+      "author": "Michael Chen",
+      "date": "March 10, 2025",
+      "readTime": "7 min read",
+      "category": "Adventure",
+      "tags": ["Kilimanjaro", "Hiking", "Adventure"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "title": "Kitulo National Park: Tanzania's Garden of God",
+      "excerpt": "Explore the botanical wonderland of Kitulo Plateau, home to spectacular wildflower displays and unique alpine landscapes.",
+      "author": "Emma Williams",
+      "date": "March 5, 2025",
+      "readTime": "4 min read",
+      "category": "Nature",
+      "tags": ["Kitulo", "Wildflowers", "Hiking", "Botanical"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    }
+  ],
+  "packageDetails": {
+    "europe": {
+      "title": "EMBARK ON THE SCENIC JOURNEY OF EUROPE",
+      "region": "Europe",
+      "duration": "12 Days/10 Nights",
+      "price": "$3,199*",
+      "basis": "Per person on twin/double sharing basis",
+      "highlights": [
+        "Eiffel Tower visit with champagne toast",
+        "Amsterdam canal cruise",
+        "Swiss Alps scenic train journey",
+        "Vatican City tour including Sistine Chapel",
+        "Venice gondola ride",
+        "Rhine Falls excursion"
+      ],
+      "itinerary": [
+        "Day 1-2: Paris - Eiffel Tower, Louvre Museum, Seine Cruise",
+        "Day 3: Brussels - Grand Place, Atomium",
+        "Day 4: Amsterdam - Canal Cruise, Anne Frank House",
+        "Day 5-6: Berlin - Brandenburg Gate, Berlin Wall",
+        "Day 7-8: Swiss Alps - Jungfraujoch, Interlaken",
+        "Day 9: Liechtenstein - Vaduz Castle",
+        "Day 10: Vienna - Schönbrunn Palace",
+        "Day 11-12: Rome - Colosseum, Vatican City"
+      ],
+      "inclusions": ["Hotel Stay", "Breakfast + Dinner", "Airport Transfers", "Sightseeings", "Tour Manager service"],
+      "accommodation": "4-star hotels in central locations",
+      "bestTime": "May to September",
+      "groupSize": "Small groups of 15-20"
+    },
+    "southAfrica": {
+      "title": "Celebrate The Eid Holidays With A Joyful Getaway",
+      "region": "South Africa",
+      "duration": "4 Nights/5 Days",
+      "price": "USD344*",
+      "basis": "per person on a twin/double sharing basis",
+      "highlights": [
+        "Soweto township tour including Mandela House",
+        "Morning and evening game drives in Pilanesberg",
+        "Sun City casino and entertainment complex",
+        "Cultural dance performances",
+        "Visit to the Cradle of Humankind"
+      ],
+      "itinerary": [
+        "Day 1: Arrival Johannesburg - Transfer to Sun City",
+        "Day 2: Pilanesberg National Park - Game Drives",
+        "Day 3: Sun City - Valley of Waves, Casino",
+        "Day 4: Soweto Tour - Mandela House, Vilakazi Street",
+        "Day 5: Departure"
+      ],
+      "inclusions": ["4N Johannesburg accommodation in 3-star hotel/similar", "Sightseeing & Cultural Experiences", "Complimentary access to the Peermont resort"]
+    },
+    "egypt": {
+      "title": "Celebrate Eid With A Journey Through The Ancient Wonders",
+      "region": "Egypt",
+      "duration": "4 Nights/5 Days",
+      "price": "USD 780*",
+      "basis": "per person on a twin/double sharing basis",
+      "highlights": [
+        "Pyramids of Giza and Sphinx visit",
+        "Egyptian Museum with King Tut's treasures",
+        "Luxor Temple and Karnak Temple complex",
+        "Hot air balloon ride over Valley of the Kings",
+        "Nile felucca sailing experience"
+      ],
+      "itinerary": [
+        "Day 1: Cairo - Pyramids of Giza, Sphinx",
+        "Day 2: Cairo - Egyptian Museum, Khan El Khalili",
+        "Day 3: Fly to Luxor - Karnak Temple, Luxor Temple",
+        "Day 4: Luxor - Valley of the Kings, Hatshepsut Temple",
+        "Day 5: Return to Cairo for departure"
+      ],
+      "inclusions": [
+        "3N Cairo Accommodation in Pyramids Park Resort in Cairo / similar (BB basis)",
+        "1N Luxor Accommodation in Aracan Luxor Hotel / similar (BB basis)",
+        "All transfers in Cairo and Luxor",
+        "Multilingual expert Egyptologist guide",
+        "All your tours and excursions are with an A/C Vehicle",
+        "The service of meet and assist at all your destinations",
+        "All your visits include entrance fees",
+        "Our prices include all taxes and services"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "section": {
+    "badge": "Join Our Community",
+    "title": "Trusted by Travelers Worldwide"
+  },
+  "stats": [
+    { "value": "500+", "label": "Trips This Year" },
+    { "value": "2,000+", "label": "Happy Travelers" },
+    { "value": "50+", "label": "Destinations" }
+  ],
+  "bookingTicker": {
+    "justBooked": "just booked a",
+    "from": "from"
+  },
+  "bookings": [
+    { "name": "Sarah", "from": "London", "trip": "Serengeti Migration Safari" },
+    { "name": "Michael", "from": "New York", "trip": "Kilimanjaro Climbing" },
+    { "name": "Akiko", "from": "Tokyo", "trip": "Zanzibar Beach Holiday" },
+    { "name": "Hans", "from": "Berlin", "trip": "Ngorongoro Crater Tour" },
+    { "name": "Maria", "from": "São Paulo", "trip": "Gorilla Tracking Adventure" },
+    { "name": "James", "from": "Sydney", "trip": "Luxury Safari Package" },
+    { "name": "Fatima", "from": "Dubai", "trip": "Family Safari Experience" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nav_home": "Inicio",
+  "nav_air": "Boletos Aéreos",
+  "nav_cmt": "CMT",
+  "nav_visa": "Visa",
+  "nav_about": "Sobre Nosotros",
+  "nav_contact": "Contacto",
+  "nav_explorer": "Explorar",
+  "nav_safari": "Destino Safari",
+  "nav_calendar": "Calendario de Vida Silvestre",
+  "nav_eco": "Calculadora Ecológica",
+  "nav_blog": "Blog",
+  "nav_book": "Reservar",
+  "read_more": "Leer más",
+  
+  "hero": {
+    "badge": "AA Travel & Tours",
+    "title": "Conéctese a los 7 Continentes con Nosotros",
+    "titleHighlight": "7 Continentes",
+    "subtitle": "100% Tanzano. Safaris a medida, alquiler de coches de lujo y experiencias inolvidables.",
+    "buttons": {
+      "plan": "Planifique Su Safari",
+      "explore": "Explore Paquetes"
+    }
+  }
+}

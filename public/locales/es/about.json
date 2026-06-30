@@ -1,0 +1,23 @@
+{
+  "header": {
+    "title": "Sobre Nosotros",
+    "subtitle": "100% Tanzano - Propiedad y Gestión Local"
+  },
+  "whoWeAre": {
+    "title": "Quiénes Somos",
+    "paragraph1": "AA Travel & Tours Ltd se ha establecido como uno de los mejores operadores turísticos y de viajes en Tanzania. Nuestro objetivo es ofrecer una completa satisfacción al cliente, lo que conduce a relaciones a largo plazo con los clientes.",
+    "paragraph2": "Nuestro cliente es alguien que busca ese \"pequeño extra.\" No solo ofrecemos el itinerario turístico estándar, sino que crearemos un itinerario personalizado para adaptarlo a sus necesidades, intereses y presupuesto.",
+    "paragraph3": "Como empresa 100% tanzana, aportamos una experiencia local incomparable y una pasión genuina por compartir la belleza de nuestra patria con el mundo."
+  },
+  "mission": {
+    "title": "Nuestra Misión",
+    "description": "Ser una empresa fácil y amigable para tratar, entendiendo las frustraciones de los viajes de negocios y brindando a los clientes soluciones simples, rápidas y eficientes."
+  },
+  "vision": {
+    "title": "Nuestra Visión",
+    "description": "Ser un líder de mercado con buena reputación y éxito continuo en la industria de viajes y turismo."
+  },
+  "cta": {
+    "button": "Contáctenos"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "section": {
+    "badge": "شراكات موثوقة",
+    "title": "شركاؤنا من شركات الطيران",
+    "subtitle": "قسم GSA قوي مع شراكات طيران حصرية. نتفاوض على صفقات الشركات، أسعار المجموعات، وأسعار خاصة لعملائنا."
+  },
+  "partners": [
+    { "name": "الخطوط الجوية الجنوب أفريقية", "img": "/images/logo/south.png" },
+    { "name": "الخطوط الجوية الأمريكية", "img": "/images/logo/america.png" },
+    { "name": "الخطوط الجوية الكينية", "img": "/images/logo/kenya.png" },
+    { "name": "الخطوط الجوية القطرية", "img": "/images/logo/qatar.png" },
+    { "name": "طيران كندا", "img": "/images/logo/canada.png" },
+    { "name": "الخطوط الجوية التركية", "img": "/images/logo/turkish.png" },
+    { "name": "الخطوط الجوية التنزانية", "img": "/images/logo/tz.jpeg" },
+    { "name": "الخطوط الجوية السويسرية", "img": "/images/logo/swiss.png" },
+    { "name": "الخطوط الجوية الفرنسية", "img": "/images/logo/france.png" },
+    { "name": "بريسيشن للطيران", "img": "/images/logo/precision.png" },
+    { "name": "دلتا للطيران", "img": "/images/logo/delta.png" },
+    { "name": "الخطوط الجوية البريطانية", "img": "/images/logo/british.png" },
+    { "name": "الخطوط الجوية الملكية الهولندية", "img": "/images/logo/klm.png" },
+    { "name": "طيران الإمارات", "img": "/images/logo/emirates.png" },
+    { "name": "إيرلينك", "img": "/images/logo/air.png" },
+    { "name": "الخطوط الجوية الماليزية", "img": "/images/logo/malaysia.png" },
+    { "name": "الاتحاد للطيران", "img": "/images/logo/etihad.png" }
+  ]
+}

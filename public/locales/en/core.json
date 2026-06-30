@@ -1,0 +1,16 @@
+{
+  "section": {
+    "badge": "Our Principles",
+    "title": "Why Choose Us"
+  },
+  "values": [
+    { "label": "First-Class Service Providers" },
+    { "label": "Accurate & Perceptive" },
+    { "label": "Creditable & Trustworthy" },
+    { "label": "Cost-Saving Solutions" },
+    { "label": "Multi-tasked 24/7 Services" },
+    { "label": "Strong Airline Relationships" },
+    { "label": "Knowledgeable Workforce" },
+    { "label": "Unparalleled Customer Service" }
+  ]
+}

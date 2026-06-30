@@ -1,0 +1,131 @@
+{
+  "page": {
+    "title": "VISA",
+    "subtitle": "Visa Process & Assistance Services"
+  },
+  "features": {
+    "success": {
+      "title": "98% Success Rate",
+      "description": "High approval rate with proper documentation"
+    },
+    "processing": {
+      "title": "Fast Processing",
+      "description": "Quick turnaround with embassy-ready applications"
+    },
+    "confidential": {
+      "title": "100% Confidential",
+      "description": "Your data is secure and protected"
+    },
+    "document": {
+      "title": "Document Review",
+      "description": "Expert verification before submission"
+    }
+  },
+  "whyChooseUs": {
+    "badge": "Why Choose Us",
+    "title": "Your Trusted Visa Partner",
+    "description": "We provide structured, reliable, and confidential visa support for individuals, families, students, and corporate travelers. Our role is to simplify the application process, reduce errors, and improve submission accuracy while ensuring full compliance with embassy and immigration regulations.",
+    "stats": {
+      "experience": {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      "countries": {
+        "value": "50+",
+        "label": "Countries"
+      },
+      "clients": {
+        "value": "10k+",
+        "label": "Happy Clients"
+      }
+    }
+  },
+  "simpleProcess": {
+    "title": "Simple Process",
+    "steps": {
+      "step1": "Initial Consultation & Eligibility Check",
+      "step2": "Document Collection & Verification",
+      "step3": "Application Preparation & Review",
+      "step4": "Submission & Follow-up"
+    }
+  },
+  "globalReach": {
+    "badge": "Global Reach",
+    "title": "Countries We Serve",
+    "subtitle": "We provide visa assistance for these destinations and many more",
+    "andMore": "and 30+ other countries worldwide"
+  },
+  "countries": {
+    "dubai": "DUBAI",
+    "qatar": "QATAR",
+    "saudi": "SAUDI ARABIA",
+    "china": "CHINA",
+    "uk": "UNITED KINGDOM",
+    "usa": "USA",
+    "vietnam": "VIETNAM",
+    "thailand": "THAILAND",
+    "spain": "SPAIN",
+    "france": "FRANCE",
+    "italy": "ITALY",
+    "tanzania": "TANZANIA",
+    "nigeria": "NIGERIA",
+    "egypt": "EGYPT"
+  },
+  "visaCategories": {
+    "badge": "What We Offer",
+    "title": "Visa Categories",
+    "subtitle": "Comprehensive visa solutions for every travel purpose",
+    "shortTerm": "Short Term",
+    "longTerm": "Long Term",
+    "special": "Special",
+    "items": {
+      "tourist": "Tourist Visa",
+      "business": "Business Visa",
+      "transit": "Transit Visa",
+      "visit": "Visit Visa",
+      "work": "Work Permit",
+      "student": "Student Visa",
+      "residence": "Residence Visa",
+      "investment": "Investment Visa",
+      "diplomatic": "Diplomatic Visa",
+      "medical": "Medical Visa",
+      "conference": "Conference Visa",
+      "journalist": "Journalist Visa"
+    },
+    "additional": "* Additional visa types available upon request"
+  },
+  "services": {
+    "tourist": {
+      "title": "Tourist / Visitor Visas",
+      "description": "For leisure travel, family visits, and tourism purposes."
+    },
+    "business": {
+      "title": "Business Visas",
+      "description": "For meetings, conferences, and corporate travel."
+    },
+    "student": {
+      "title": "Student Visas",
+      "description": "For international education and study programs."
+    },
+    "work": {
+      "title": "Work & Employment Visas",
+      "description": "For professionals seeking employment abroad."
+    },
+    "transit": {
+      "title": "Transit Visas",
+      "description": "For short layovers and connecting flights."
+    },
+    "dependent": {
+      "title": "Dependent / Family Visas",
+      "description": "For family members joining relatives abroad."
+    }
+  },
+  "cta": {
+    "title": "Ready to Start Your Journey?",
+    "subtitle": "Let us handle the paperwork while you focus on your travel plans",
+    "button": "Contact Us"
+  },
+  "additionalInfo": {
+    "text": "Our team ensures that each application is prepared according to the specific requirements of the destination country and the applicant's profile."
+  }
+}

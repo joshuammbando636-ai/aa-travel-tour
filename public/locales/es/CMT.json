@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Soluciones de Viajes de Negocios Simplificadas",
+    "subtitle": "Gestión integral de viajes corporativos con soporte dedicado, tarifas preferenciales y términos de crédito flexibles."
+  },
+  "services": {
+    "title": "Servicios de Viajes Corporativos",
+    "subtitle": "Soluciones integrales de viajes de negocios adaptadas a las necesidades de su empresa",
+    "items": [
+      {
+        "title": "Boletos Aéreos Corporativos",
+        "description": "Vuelos en clase ejecutiva y económica con descuento, políticas de cambio flexibles y soporte de rebooking 24/7."
+      },
+      {
+        "title": "Soporte Fuera de Horario",
+        "description": "Soporte de emergencia 24/7 cuando nos necesite, día o noche, incluyendo fines de semana y festivos."
+      },
+      {
+        "title": "Consultor Dedicado",
+        "description": "Su gestor de viajes personal que entiende las necesidades únicas y patrones de viaje de su empresa."
+      },
+      {
+        "title": "Ofertas Corporativas Especiales",
+        "description": "Tarifas negociadas exclusivas con aerolíneas, hoteles y empresas de alquiler de coches para clientes corporativos."
+      },
+      {
+        "title": "Reservas de Hotel",
+        "description": "Reservas de hoteles locales y mundiales a tarifas corporativas preferenciales con mejores garantías disponibles."
+      },
+      {
+        "title": "Seguro de Viaje",
+        "description": "Paquetes completos de seguro de viaje para tranquilidad en cada viaje de negocios."
+      },
+      {
+        "title": "Servicio de Asistencia",
+        "description": "Servicio VIP de recepción en aeropuerto para sus ejecutivos e invitados en los principales aeropuertos."
+      },
+      {
+        "title": "Asistencia de Visa",
+        "description": "Procesamiento experto de visas y soporte documental para todos los destinos de negocios mundiales."
+      },
+      {
+        "title": "Facilidad de Crédito Flexible",
+        "description": "Facilidad de crédito de 15-30 días disponible para cuentas corporativas calificadas con facturación mensual consolidada."
+      },
+      {
+        "title": "Gestión de Gastos",
+        "description": "Informes simplificados y facturación consolidada para su equipo financiero con desgloses detallados."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Simplificar Sus Viajes Corporativos?",
+    "subtitle": "Permítanos diseñar un programa de viajes corporativos que ahorre tiempo y dinero a su empresa mientras brinda un servicio excepcional.",
+    "button": "Obtener Cotización Corporativa",
+    "email": "Correo",
+    "phone": "Teléfono"
+  }
+}

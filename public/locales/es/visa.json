@@ -1,0 +1,131 @@
+{
+  "page": {
+    "title": "VISA",
+    "subtitle": "Servicios de proceso de visa y asistencia"
+  },
+  "features": {
+    "success": {
+      "title": "98% de éxito",
+      "description": "Alta tasa de aprobación con documentación adecuada"
+    },
+    "processing": {
+      "title": "Procesamiento rápido",
+      "description": "Respuesta rápida con solicitudes listas para embajada"
+    },
+    "confidential": {
+      "title": "100% confidencial",
+      "description": "Sus datos están seguros y protegidos"
+    },
+    "document": {
+      "title": "Revisión de documentos",
+      "description": "Verificación experta antes de la presentación"
+    }
+  },
+  "whyChooseUs": {
+    "badge": "Por qué elegirnos",
+    "title": "Su socio de confianza para visados",
+    "description": "Proporcionamos apoyo estructurado, confiable y confidencial para visados a individuos, familias, estudiantes y viajeros corporativos. Nuestro rol es simplificar el proceso de solicitud, reducir errores y mejorar la precisión de las presentaciones, garantizando el cumplimiento total con las regulaciones de embajadas e inmigración.",
+    "stats": {
+      "experience": {
+        "value": "15+",
+        "label": "Años de experiencia"
+      },
+      "countries": {
+        "value": "50+",
+        "label": "Países"
+      },
+      "clients": {
+        "value": "10k+",
+        "label": "Clientes satisfechos"
+      }
+    }
+  },
+  "simpleProcess": {
+    "title": "Proceso simple",
+    "steps": {
+      "step1": "Consulta inicial y verificación de elegibilidad",
+      "step2": "Recolección y verificación de documentos",
+      "step3": "Preparación y revisión de la solicitud",
+      "step4": "Presentación y seguimiento"
+    }
+  },
+  "globalReach": {
+    "badge": "Alcance global",
+    "title": "Países que servimos",
+    "subtitle": "Ofrecemos asistencia para visados a estos destinos y muchos más",
+    "andMore": "y más de 30 otros países en todo el mundo"
+  },
+  "countries": {
+    "dubai": "DUBAI",
+    "qatar": "QATAR",
+    "saudi": "ARABIA SAUDITA",
+    "china": "CHINA",
+    "uk": "REINO UNIDO",
+    "usa": "EE.UU.",
+    "vietnam": "VIETNAM",
+    "thailand": "TAILANDIA",
+    "spain": "ESPAÑA",
+    "france": "FRANCIA",
+    "italy": "ITALIA",
+    "tanzania": "TANZANIA",
+    "nigeria": "NIGERIA",
+    "egypt": "EGIPTO"
+  },
+  "visaCategories": {
+    "badge": "Lo que ofrecemos",
+    "title": "Categorías de visa",
+    "subtitle": "Soluciones integrales de visa para cada propósito de viaje",
+    "shortTerm": "Corto plazo",
+    "longTerm": "Largo plazo",
+    "special": "Especiales",
+    "items": {
+      "tourist": "Visa de turista",
+      "business": "Visa de negocios",
+      "transit": "Visa de tránsito",
+      "visit": "Visa de visita",
+      "work": "Permiso de trabajo",
+      "student": "Visa de estudiante",
+      "residence": "Visa de residencia",
+      "investment": "Visa de inversión",
+      "diplomatic": "Visa diplomática",
+      "medical": "Visa médica",
+      "conference": "Visa de conferencia",
+      "journalist": "Visa de periodista"
+    },
+    "additional": "* Tipos de visa adicionales disponibles bajo solicitud"
+  },
+  "services": {
+    "tourist": {
+      "title": "Visas de turista / visitante",
+      "description": "Para viajes de placer, visitas familiares y turismo."
+    },
+    "business": {
+      "title": "Visas de negocios",
+      "description": "Para reuniones, conferencias y viajes corporativos."
+    },
+    "student": {
+      "title": "Visas de estudiante",
+      "description": "Para educación internacional y programas de estudio."
+    },
+    "work": {
+      "title": "Visas de trabajo y empleo",
+      "description": "Para profesionales que buscan empleo en el extranjero."
+    },
+    "transit": {
+      "title": "Visas de tránsito",
+      "description": "Para escalas cortas y vuelos de conexión."
+    },
+    "dependent": {
+      "title": "Visas familiares / dependientes",
+      "description": "Para familiares que se unen a parientes en el extranjero."
+    }
+  },
+  "cta": {
+    "title": "¿Listo para comenzar su viaje?",
+    "subtitle": "Deje que manejemos el papeleo mientras usted se concentra en sus planes de viaje",
+    "button": "Contáctenos"
+  },
+  "additionalInfo": {
+    "text": "Nuestro equipo asegura que cada solicitud sea preparada según los requisitos específicos del país de destino y el perfil del solicitante."
+  }
+}

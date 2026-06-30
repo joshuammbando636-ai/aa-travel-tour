@@ -1,0 +1,107 @@
+{
+  "header": {
+    "title": "Wildlife Calendar",
+    "subtitle": "2024-2025 Tanzania Wildlife & Migration Guide"
+  },
+  "legend": {
+    "peak": "Excellent (Peak)",
+    "good": "Good",
+    "low": "Low / Avoid"
+  },
+  "months": {
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Aug",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec"
+  },
+  "details": {
+    "temperature": "Temperature",
+    "highLow": "High / Low",
+    "rainfall": "Rainfall",
+    "probability": "Probability",
+    "crowdLevel": "Crowd Level",
+    "bestParks": "Best Parks",
+    "whatToSee": "What to See"
+  },
+  "wildlife": {
+    "greatMigration": "Great Migration",
+    "bigFive": "Big Five (Serengeti)",
+    "elephantHerds": "Elephant Herds",
+    "birdWatching": "Bird Watching",
+    "whaleSharks": "Whale Sharks (Mafia)",
+    "chimpanzees": "Chimpanzees (Mahale)",
+    "nestingTurtles": "Nesting Turtles",
+    "flamingos": "Flamingos (Natron)",
+    "wildebeestCalving": "Wildebeest Calving",
+    "riverCrossings": "River Crossings",
+    "zebraMigration": "Zebra Migration",
+    "predatorAction": "Predator Action"
+  },
+  "parks": {
+    "serengetiSouth": "Serengeti (South)",
+    "serengetiWest": "Serengeti (West)",
+    "serengetiNorth": "Serengeti (North)",
+    "ngorongoro": "Ngorongoro",
+    "manyara": "Lake Manyara",
+    "tarangire": "Tarangire",
+    "selous": "Selous",
+    "ruaha": "Ruaha",
+    "katavi": "Katavi",
+    "mahale": "Mahale Mountains",
+    "gombe": "Gombe",
+    "mafia": "Mafia Island",
+    "masaiMara": "Masai Mara",
+    "arusha": "Arusha",
+    "zanzibar": "Zanzibar"
+  },
+  "migrationNotes": {
+    "jan": "Southern Serengeti — peak calving (8,000 wildebeest born daily)",
+    "feb": "Southern Serengeti — calving continues, predators in abundance",
+    "mar": "Herds moving west, long rains — excellent low-season rates",
+    "apr": "Heavy rains — best time for budget travelers and photographers",
+    "may": "End of rains, herds in western corridor — shoulder season",
+    "jun": "Western Corridor — Grumeti River crossings begin",
+    "jul": "Northern Serengeti — Mara River crossings begin",
+    "aug": "Northern Serengeti — peak Mara River crossings (thousands cross daily)",
+    "sep": "Northern Serengeti — whale sharks arrive at Mafia Island",
+    "oct": "Herds moving south, short rains — shoulder season rates",
+    "nov": "Moving south, short rains — excellent value safari",
+    "dec": "Return to southern Serengeti — book 4+ months ahead"
+  },
+  "whatToSee": {
+    "jan": ["Peak calving season", "Lions hunting newborns", "Flamingos at Lake Manyara", "Green landscapes"],
+    "feb": ["Calving continues", "Excellent predator viewing", "Hot air balloons", "Compact herds"],
+    "mar": ["Long rains begin", "Migratory birds arrive", "Luxury camp discounts", "Lush scenery"],
+    "apr": ["Heavy rains", "Best birding (500+ species)", "Dramatic skies", "40%+ camp discounts"],
+    "may": ["Rains easing", "Western corridor migration", "Chimpanzee trekking", "Green valleys"],
+    "jun": ["Dry season begins", "Grumeti River crossings", "Animals at waterholes", "Clear skies"],
+    "jul": ["Mara River crossings start", "Perfect weather", "Elephant herds at Tarangire", "Crystal mornings"],
+    "aug": ["Peak Mara crossings", "Dramatic crocodile action", "Best wildlife viewing", "Book 6+ months ahead"],
+    "sep": ["Migration continues north", "Whale sharks at Mafia", "Dry landscapes", "Excellent photography"],
+    "oct": ["Short rains begin", "Migration heads south", "Green season starts", "Good rates"],
+    "nov": ["Green landscapes", "Migratory birds", "Fewer crowds", "Value rates"],
+    "dec": ["Holiday season", "Migration returns south", "Beach & safari combos", "Festive atmosphere"]
+  },
+  "footer": {
+    "text": "Data based on 2024-2025 Tanzania Meteorological Authority and park reports. Click any month for detailed information."
+  },
+  "seasonLabels": {
+    "peak": "Peak",
+    "good": "Good",
+    "low": "Low"
+  },
+  "crowdLevels": {
+    "Low": "Low",
+    "Medium": "Medium",
+    "High": "High",
+    "Peak": "Peak"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "section": {
+    "badge": "Ce Que Nous Proposons",
+    "title": "Nos Services"
+  },
+  "services": [
+    {
+      "title": "Destinations Safari",
+      "description": "Safaris Familiaux, Safaris Luxe & Budget, Forfaits Lune de Miel, Ascension de Montagnes. Nous n'offrons pas d'itinéraires standard — nous concevons sur mesure votre aventure de rêve.",
+      "link": "/safaris"
+    },
+    {
+      "title": "Billets d'Avion",
+      "description": "Votre Partenaire de Confiance pour les Réservations de Vols Nationaux et Internationaux — Offrant des Tarifs Compétitifs, des Horaires Flexibles et des Connexions Transparentes vers des Destinations à Travers le Monde.",
+      "link": "/air-ticketing"
+    },
+    {
+      "title": "Voyages d'Affaires",
+      "description": "Conseillers en voyages dédiés, support 24/7, offres spéciales entreprises, facilité de crédit flexible, service d'accueil, réservations d'hôtels dans le monde entier et assistance visa.",
+      "link": "/corporate"
+    }
+  ],
+  "button": "En Savoir Plus"
+}

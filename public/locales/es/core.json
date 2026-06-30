@@ -1,0 +1,16 @@
+{
+  "section": {
+    "badge": "Nuestros Principios",
+    "title": "Por Qué Elegirnos"
+  },
+  "values": [
+    { "label": "Proveedores de Servicios de Primera Clase" },
+    { "label": "Precisos & Perceptivos" },
+    { "label": "Creíbles & Confiables" },
+    { "label": "Soluciones de Ahorro" },
+    { "label": "Servicios Multitarea 24/7" },
+    { "label": "Relaciones Sólidas con Aerolíneas" },
+    { "label": "Personal Capacitado" },
+    { "label": "Servicio al Cliente Inigualable" }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "intro": {
+    "badge": "Expérience Safari en Tanzanie",
+    "title": "Découvrez le Cœur Sauvage de l'Afrique",
+    "description1": "La Tanzanie est l'une des destinations safari les plus remarquables au monde, offrant une combinaison inégalée de faune, de paysages et d'expériences culturelles authentiques. Nos aventures safari sont conçues pour offrir aux voyageurs locaux et internationaux un voyage immersif à travers les parcs nationaux et zones de conservation les plus emblématiques du pays.",
+    "description2": "Nous vous emmenons vers des destinations légendaires comme le Parc National du Serengeti, berceau de la Grande Migration, avec ses vastes plaines peuplées de lions, éléphants, girafes et guépards. Vivez la beauté à couper le souffle du Cratère du Ngorongoro, merveille naturelle et site du patrimoine mondial de l'UNESCO où la faune prospère dans une spectaculaire caldeira volcanique. Dans le Parc National de Tarangire, vous observerez de grands troupeaux d'éléphants et d'anciens baobabs, tandis que le Mont Kilimandjaro ajoute une touche dramatique et inoubliable à votre aventure tanzanienne."
+  },
+  "destinations": {
+    "title": "Destinations Safari Iconiques",
+    "serengeti": {
+      "name": "Parc National du Serengeti",
+      "description": "Berceau de la Grande Migration, découvrez de vastes plaines remplies de lions, éléphants, girafes et guépards dans leur habitat naturel.",
+      "highlights": {
+        "migration": "Grande Migration",
+        "bigCats": "Grands Félins",
+        "plains": "Plaines Infinies"
+      }
+    },
+    "ngorongoro": {
+      "name": "Cratère du Ngorongoro",
+      "description": "Site du patrimoine mondial de l'UNESCO et merveille naturelle où la faune prospère dans une spectaculaire caldeira volcanique.",
+      "highlights": {
+        "unesco": "Site UNESCO",
+        "crater": "Fond du Cratère",
+        "rhinos": "Rhinocéros Rares"
+      }
+    },
+    "tarangire": {
+      "name": "Parc National de Tarangire",
+      "description": "Observez de grands troupeaux d'éléphants sous d'anciens baobabs dans ce parc pittoresque.",
+      "highlights": {
+        "elephants": "Troupeaux d'Éléphants",
+        "baobab": "Baobabs",
+        "birds": "Observation d'Oiseaux"
+      }
+    },
+    "kilimanjaro": {
+      "name": "Mont Kilimandjaro",
+      "description": "Le cadre dramatique du plus haut sommet d'Afrique ajoute une touche inoubliable à votre aventure tanzanienne.",
+      "highlights": {
+        "peak": "Toit de l'Afrique",
+        "views": "Vues Panoramiques",
+        "photography": "Photographie"
+      }
+    }
+  },
+  "packages": {
+    "title": "Forfaits Safari Sur Mesure",
+    "subtitle": "Nos forfaits safari sont soigneusement adaptés à vos intérêts, votre emploi du temps et votre budget. Que vous recherchiez des lodges de luxe, des camps sous tente, des safaris familiaux, des voyages de lune de miel ou des circuits en groupe, nous concevons chaque itinéraire avec attention aux détails et un service personnalisé.",
+    "experiences": {
+      "lodges": {
+        "title": "Lodges de Luxe",
+        "description": "Découvrez un hébergement de classe mondiale avec des vues imprenables et des équipements premium."
+      },
+      "camps": {
+        "title": "Camps Sous Tente",
+        "description": "Dormez sous les étoiles dans des camps safari confortables et authentiques."
+      },
+      "family": {
+        "title": "Safaris Familiaux",
+        "description": "Aventures adaptées aux enfants qui éduquent et inspirent les jeunes explorateurs."
+      },
+      "honeymoon": {
+        "title": "Safaris de Lune de Miel",
+        "description": "Escapades romantiques dans les plus beaux cadres sauvages d'Afrique."
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Pourquoi Choisir Notre Safari ?",
+    "locallyOwned": {
+      "title": "Propriété et Gestion Locales",
+      "description": "En tant qu'entreprise locale, nous offrons une connaissance approfondie des parcs tanzaniens, du comportement de la faune et des temps forts saisonniers pour vous garantir la meilleure expérience possible."
+    },
+    "authentic": {
+      "title": "Expériences Authentiques",
+      "description": "Des safaris palpitants aux rencontres culturelles avec les communautés locales, chaque voyage est conçu pour créer des souvenirs durables."
+    },
+    "fullService": {
+      "title": "Planification Complète",
+      "description": "Nous gérons toute la logistique, y compris l'hébergement, le transport, les frais de parc et les guides professionnels, vous permettant de vous détendre et de profiter pleinement de la beauté de la Tanzanie."
+    },
+    "quote": "\"Chaque voyage est conçu pour créer des souvenirs durables dans les paysages sauvages et pittoresques de la Tanzanie.\""
+  },
+  "closing": {
+    "title": "Découvrez la Nature Sauvage, les Paysages Pittoresques et la Chaleureuse Hospitalité",
+    "subtitle": "Faites de la Tanzanie votre destination safari de prédilection — où chaque instant devient un souvenir pour la vie.",
+    "buttons": {
+      "plan": "Planifiez Votre Safari",
+      "explore": "Explorez les Destinations"
+    }
+  }
+}

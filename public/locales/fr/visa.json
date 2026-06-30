@@ -1,0 +1,131 @@
+{
+  "page": {
+    "title": "VISA",
+    "subtitle": "Services de visa et d'assistance"
+  },
+  "features": {
+    "success": {
+      "title": "98% de réussite",
+      "description": "Taux d'approbation élevé avec documentation appropriée"
+    },
+    "processing": {
+      "title": "Traitement rapide",
+      "description": "Délais courts avec dossiers prêts pour l'ambassade"
+    },
+    "confidential": {
+      "title": "100% confidentiel",
+      "description": "Vos données sont sécurisées et protégées"
+    },
+    "document": {
+      "title": "Vérification des documents",
+      "description": "Vérification experte avant soumission"
+    }
+  },
+  "whyChooseUs": {
+    "badge": "Pourquoi nous choisir",
+    "title": "Votre partenaire de confiance pour les visas",
+    "description": "Nous fournissons un soutien structuré, fiable et confidentiel pour les visas aux particuliers, aux familles, aux étudiants et aux voyageurs d'affaires. Notre rôle est de simplifier le processus de demande, de réduire les erreurs et d'améliorer la précision des soumissions tout en garantissant la conformité totale avec les réglementations des ambassades et de l'immigration.",
+    "stats": {
+      "experience": {
+        "value": "15+",
+        "label": "Années d'expérience"
+      },
+      "countries": {
+        "value": "50+",
+        "label": "Pays desservis"
+      },
+      "clients": {
+        "value": "10k+",
+        "label": "Clients satisfaits"
+      }
+    }
+  },
+  "simpleProcess": {
+    "title": "Processus simplifié",
+    "steps": {
+      "step1": "Consultation initiale et vérification d'éligibilité",
+      "step2": "Collecte et vérification des documents",
+      "step3": "Préparation et révision de la demande",
+      "step4": "Soumission et suivi"
+    }
+  },
+  "globalReach": {
+    "badge": "Portée mondiale",
+    "title": "Pays que nous servons",
+    "subtitle": "Nous fournissons une assistance pour les visas vers ces destinations et bien d'autres",
+    "andMore": "et plus de 30 autres pays dans le monde"
+  },
+  "countries": {
+    "dubai": "DUBAÏ",
+    "qatar": "QATAR",
+    "saudi": "ARABIE SAOUDITE",
+    "china": "CHINE",
+    "uk": "ROYAUME-UNI",
+    "usa": "ÉTATS-UNIS",
+    "vietnam": "VIETNAM",
+    "thailand": "THAÏLANDE",
+    "spain": "ESPAGNE",
+    "france": "FRANCE",
+    "italy": "ITALIE",
+    "tanzania": "TANZANIE",
+    "nigeria": "NIGERIA",
+    "egypt": "ÉGYPTE"
+  },
+  "visaCategories": {
+    "badge": "Nos services",
+    "title": "Catégories de visas",
+    "subtitle": "Solutions complètes de visas pour tous les voyages",
+    "shortTerm": "Court séjour",
+    "longTerm": "Long séjour",
+    "special": "Spéciaux",
+    "items": {
+      "tourist": "Visa touriste",
+      "business": "Visa d'affaires",
+      "transit": "Visa de transit",
+      "visit": "Visa de visite",
+      "work": "Permis de travail",
+      "student": "Visa étudiant",
+      "residence": "Visa de résidence",
+      "investment": "Visa d'investissement",
+      "diplomatic": "Visa diplomatique",
+      "medical": "Visa médical",
+      "conference": "Visa de conférence",
+      "journalist": "Visa journaliste"
+    },
+    "additional": "* D'autres types de visas disponibles sur demande"
+  },
+  "services": {
+    "tourist": {
+      "title": "Visas touristiques / visiteurs",
+      "description": "Pour les voyages de loisirs, visites familiales et tourisme."
+    },
+    "business": {
+      "title": "Visas d'affaires",
+      "description": "Pour réunions, conférences et voyages d'entreprise."
+    },
+    "student": {
+      "title": "Visas étudiants",
+      "description": "Pour l'éducation internationale et les programmes d'études."
+    },
+    "work": {
+      "title": "Visas de travail et d'emploi",
+      "description": "Pour les professionnels cherchant un emploi à l'étranger."
+    },
+    "transit": {
+      "title": "Visas de transit",
+      "description": "Pour les escales courtes et les vols de correspondance."
+    },
+    "dependent": {
+      "title": "Visas famille / accompagnant",
+      "description": "Pour les membres de la famille rejoignant des proches à l'étranger."
+    }
+  },
+  "cta": {
+    "title": "Prêt à commencer votre voyage ?",
+    "subtitle": "Laissez-nous gérer la paperasse pendant que vous vous concentrez sur vos projets de voyage",
+    "button": "Contactez-nous"
+  },
+  "additionalInfo": {
+    "text": "Notre équipe veille à ce que chaque demande soit préparée selon les exigences spécifiques du pays de destination et le profil du demandeur."
+  }
+}

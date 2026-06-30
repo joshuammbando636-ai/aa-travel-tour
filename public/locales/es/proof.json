@@ -1,0 +1,24 @@
+{
+  "section": {
+    "badge": "Únete a Nuestra Comunidad",
+    "title": "Confiado por Viajeros de Todo el Mundo"
+  },
+  "stats": [
+    { "value": "500+", "label": "Viajes Este Año" },
+    { "value": "2.000+", "label": "Viajeros Felices" },
+    { "value": "50+", "label": "Destinos" }
+  ],
+  "bookingTicker": {
+    "justBooked": "acaba de reservar",
+    "from": "de"
+  },
+  "bookings": [
+    { "name": "Sarah", "from": "Londres", "trip": "Safari de Migración en Serengeti" },
+    { "name": "Michael", "from": "Nueva York", "trip": "Escalada del Kilimanjaro" },
+    { "name": "Akiko", "from": "Tokio", "trip": "Vacaciones en la Playa de Zanzíbar" },
+    { "name": "Hans", "from": "Berlín", "trip": "Tour del Cráter del Ngorongoro" },
+    { "name": "Maria", "from": "São Paulo", "trip": "Aventura de Rastreo de Gorilas" },
+    { "name": "James", "from": "Sídney", "trip": "Paquete Safari de Lujo" },
+    { "name": "Fatima", "from": "Dubái", "trip": "Experiencia Safari Familiar" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "section": {
+    "badge": "What We Offer",
+    "title": "Our Services"
+  },
+  "services": [
+    {
+      "title": "Safari Destinations",
+      "description": "Family Safaris, Luxury & Budget Safaris, Honeymoon Packages, Mountain Climbing. We don't offer standard itineraries — we tailor-make your dream adventure.",
+      "link": "/safaris"
+    },
+    {
+      "title": "Air Ticketing",
+      "description": "Your Trusted Partner for Domestic and International Flight Bookings — Offering Competitive Fares, Flexible Schedules, and Seamless Connections to Destinations Across the Globe.",
+      "link": "/air-ticketing"
+    },
+    {
+      "title": "Corporate Travel",
+      "description": "Dedicated travel consultants, 24/7 support, special corporate deals, flexible credit facility, meet & assist service, worldwide hotel arrangements & visa assistance.",
+      "link": "/corporate"
+    }
+  ],
+  "button": "Learn More"
+}

@@ -1,0 +1,93 @@
+{
+  "intro": {
+    "badge": "Tanzania Safari Experience",
+    "title": "Discover the Wild Heart of Africa",
+    "description1": "Tanzania is one of the world's most remarkable safari destinations, offering an unmatched combination of wildlife, landscapes, and authentic cultural experiences. Our safari tour adventures are designed to give both local and international travelers an immersive journey through the country's most iconic national parks and conservation areas.",
+    "description2": "We take you to legendary destinations such as the Serengeti National Park, home to the Great Migration and vast plains filled with lions, elephants, giraffes, and cheetahs. Experience the breathtaking beauty of the Ngorongoro Crater, a natural wonder and UNESCO World Heritage Site where wildlife thrives within a spectacular volcanic caldera. In Tarangire National Park, you will witness large herds of elephants and ancient baobab trees, while the backdrop of Mount Kilimanjaro adds a dramatic and unforgettable touch to your Tanzanian adventure."
+  },
+  "destinations": {
+    "title": "Iconic Safari Destinations",
+    "serengeti": {
+      "name": "Serengeti National Park",
+      "description": "Home to the Great Migration, witness vast plains filled with lions, elephants, giraffes, and cheetahs in their natural habitat.",
+      "highlights": {
+        "migration": "Great Migration",
+        "bigCats": "Big Cats",
+        "plains": "Endless Plains"
+      }
+    },
+    "ngorongoro": {
+      "name": "Ngorongoro Crater",
+      "description": "A UNESCO World Heritage Site and natural wonder where wildlife thrives within a spectacular volcanic caldera.",
+      "highlights": {
+        "unesco": "UNESCO Site",
+        "crater": "Crater Floor",
+        "rhinos": "Rare Rhinos"
+      }
+    },
+    "tarangire": {
+      "name": "Tarangire National Park",
+      "description": "Witness large herds of elephants beneath ancient baobab trees in this picturesque park.",
+      "highlights": {
+        "elephants": "Elephant Herds",
+        "baobab": "Baobab Trees",
+        "birds": "Bird Watching"
+      }
+    },
+    "kilimanjaro": {
+      "name": "Mount Kilimanjaro",
+      "description": "The dramatic backdrop of Africa's highest peak adds an unforgettable touch to your Tanzanian adventure.",
+      "highlights": {
+        "peak": "Africa's Peak",
+        "views": "Scenic Views",
+        "photography": "Photography"
+      }
+    }
+  },
+  "packages": {
+    "title": "Safari Packages Tailored for You",
+    "subtitle": "Our safari packages are carefully tailored to suit your interests, schedule, and budget. Whether you are seeking luxury lodges, tented camps, family-friendly safaris, honeymoon experiences, or group tours, we design every itinerary with attention to detail and personalized service.",
+    "experiences": {
+      "lodges": {
+        "title": "Luxury Lodges",
+        "description": "Experience world-class accommodation with stunning views and premium amenities."
+      },
+      "camps": {
+        "title": "Tented Camps",
+        "description": "Sleep under the stars in comfortable, authentic safari camps."
+      },
+      "family": {
+        "title": "Family Safaris",
+        "description": "Kid-friendly adventures that educate and inspire young explorers."
+      },
+      "honeymoon": {
+        "title": "Honeymoon Safaris",
+        "description": "Romantic getaways in Africa's most beautiful wilderness settings."
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Why Safari with Us?",
+    "locallyOwned": {
+      "title": "Locally Owned & Managed",
+      "description": "As a locally owned and managed company, we offer in-depth knowledge of Tanzania's parks, wildlife behavior, and seasonal highlights to ensure you enjoy the best possible experience."
+    },
+    "authentic": {
+      "title": "Authentic Experiences",
+      "description": "From thrilling game drives and sunrise safaris to cultural encounters with local communities, every journey is crafted to create lasting memories."
+    },
+    "fullService": {
+      "title": "Full-Service Planning",
+      "description": "We handle all logistics, including accommodation, transport, park fees, and professional guides, allowing you to relax and fully enjoy the beauty of Tanzania."
+    },
+    "quote": "\"Every journey is crafted to create lasting memories in the wild, scenic landscapes of Tanzania.\""
+  },
+  "closing": {
+    "title": "Discover the Wild, the Scenic Landscapes, and the Warm Hospitality",
+    "subtitle": "Make Tanzania your premier safari destination — where every moment becomes a memory for a lifetime.",
+    "buttons": {
+      "plan": "Plan Your Safari",
+      "explore": "Explore Destinations"
+    }
+  }
+}

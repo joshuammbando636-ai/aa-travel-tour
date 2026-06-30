@@ -1,0 +1,72 @@
+{
+  "section": {
+    "badge": "Testimonials",
+    "title": "What Our Clients Say"
+  },
+  "filter": {
+    "placeholder": "Filter by type",
+    "all": "All Safaris",
+    "family": "Family",
+    "luxury": "Luxury",
+    "honeymoon": "Honeymoon"
+  },
+  "testimonials": [
+    {
+      "name": "John M. Lukumbulu",
+      "company": "Llukumbulu Investment Limited",
+      "text": "AA Travel & Tours has been our trusted travel partner for years. Their attention to detail and personalized service is unmatched. Every trip is seamlessly organized.",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&q=80",
+      "rating": 5,
+      "type": "family"
+    },
+    {
+      "name": "Sarah K. Mmari",
+      "company": "East Africa Ventures",
+      "text": "From our corporate travel needs to family safaris, AA Travel always delivers beyond expectations. Their local expertise makes all the difference.",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&q=80",
+      "rating": 5,
+      "type": "luxury"
+    },
+    {
+      "name": "David R. Thompson",
+      "company": "International Visitor",
+      "text": "Our Kilimanjaro trek organized by AA Travel was the experience of a lifetime. The guides were knowledgeable, the logistics flawless, and the memories unforgettable.",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&q=80",
+      "rating": 5,
+      "type": "family"
+    },
+    {
+      "name": "Grace N. Mushi",
+      "company": "Tanzanian Breweries Ltd",
+      "text": "Their corporate travel management has saved us both time and money. The 24/7 support means we never have to worry about last-minute changes.",
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&q=80",
+      "rating": 5,
+      "type": "luxury"
+    },
+    {
+      "name": "Michael & Jennifer Chen",
+      "company": "Honeymoon Travelers",
+      "text": "Our honeymoon safari exceeded all expectations! AA Travel arranged the most romantic lodges and unforgettable wildlife encounters. The perfect start to our marriage.",
+      "photo": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=150&q=80",
+      "rating": 5,
+      "type": "honeymoon"
+    },
+    {
+      "name": "The Anderson Family",
+      "company": "Family Safari",
+      "text": "Traveling with kids can be stressful, but AA Travel made it seamless. Our children learned so much and we created memories that will last forever. Highly recommend!",
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&q=80",
+      "rating": 5,
+      "type": "family"
+    },
+    {
+      "name": "Robert Kimaro",
+      "company": "Adventure Seeker",
+      "text": "The budget safari was incredible value! Don't let the price fool you - the experience was world-class. Professional guides, great camps, and amazing wildlife.",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&q=80",
+      "rating": 5,
+      "type": "family"
+    }
+  ],
+  "verified": "VERIFIED"
+}

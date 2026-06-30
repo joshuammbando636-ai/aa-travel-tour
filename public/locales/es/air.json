@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "badge": "Agencia acreditada IATA • 15+ años de experiencia",
+    "title": "Vuela Más Allá",
+    "subtitle": "Descubre el mundo con servicios de emisión de boletos aéreos premium. Mejores tarifas, asociaciones de confianza y soporte 24/7.",
+    "button": "Reserva tu Vuelo"
+  },
+  "benefits": {
+    "global": {
+      "title": "Red global",
+      "description": "Acceso a más de 500 aerolíneas"
+    },
+    "support": {
+      "title": "Soporte 24/7",
+      "description": "Asistencia de reserva las 24 horas"
+    },
+    "price": {
+      "title": "Mejor precio garantizado",
+      "description": "Tarifas competitivas en todas las rutas"
+    },
+    "payment": {
+      "title": "Pago flexible",
+      "description": "Múltiples opciones de pago disponibles"
+    }
+  },
+  "services": {
+    "title": "EMISIÓN DE BOLETOS AÉREOS Y RESERVAS DE VUELOS",
+    "description1": "Ofrecemos servicios profesionales de emisión de boletos aéreos para viajes nacionales, regionales e internacionales. Ya sea que viaje por negocios, placer, educación o compromisos corporativos, aseguramos las opciones de vuelo más adecuadas en categorías Económica, Ejecutiva y Primera Clase.",
+    "description2": "Nuestro objetivo es ofrecer reservas precisas, tarifas competitivas y soporte confiable desde la reserva hasta la salida."
+  },
+  "partners": {
+    "badge": "Nuestros socios",
+    "title": "Aerolíneas de confianza",
+    "subtitle": "Nos asociamos con las principales aerolíneas globales para ofrecerle las mejores tarifas y rutas"
+  },
+  "airlines": {
+    "american": "American Airlines",
+    "swiss": "Swiss Airlines",
+    "british": "British Airways",
+    "qatar": "Qatar Airways",
+    "emirates": "Emirates",
+    "turkish": "Turkish Airlines"
+  },
+  "assistance": {
+    "title": "¿Necesita ayuda con su reserva?",
+    "subtitle": "Contacte a nuestros expertos en viajes para tarifas corporativas, viajes en grupo y arreglos de vuelo personalizados.",
+    "whyCall": "¿Por qué llamarnos?",
+    "features": {
+      "instant": "Confirmación instantánea",
+      "guarantee": "Mejor precio garantizado",
+      "support": "Soporte al cliente 24/7"
+    }
+  }
+}

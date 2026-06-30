@@ -1,0 +1,143 @@
+{
+  "header": {
+    "title": "Notre Blog",
+    "subtitle": "Récits de voyage et guides"
+  },
+  "packages": {
+    "title": "Forfaits de Voyage Vedettes",
+    "moreInfo": "Plus d'Informations",
+    "bookNow": "Réserver Ce Forfait",
+    "startingFrom": "À partir de",
+    "tourHighlights": "Points Forts du Circuit",
+    "dailyItinerary": "Itinéraire Quotidien",
+    "whatsIncluded": "Ce qui est Inclus",
+    "additionalDetails": {
+      "hotel": "Hôtel",
+      "bestTime": "Meilleure Période",
+      "groupSize": "Taille du Groupe"
+    }
+  },
+  "blog": {
+    "title": "Articles Récents",
+    "readMore": "Lire",
+    "author": "Auteur",
+    "loadMore": "Charger Plus d'Articles",
+    "backToBlog": "Retour au Blog"
+  },
+  "posts": [
+    {
+      "title": "La Grande Migration : Tout ce que Vous Devez Savoir",
+      "excerpt": "Découvrez le meilleur moment pour observer la migration des gnous dans le Serengeti et le Masai Mara.",
+      "author": "Sarah Johnson",
+      "date": "15 Mars 2025",
+      "readTime": "5 min de lecture",
+      "category": "Guide Safari",
+      "tags": ["Serengeti", "Migration", "Faune"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "title": "Ascension du Kilimandjaro : Conseils pour les Débutants",
+      "excerpt": "Conseils de préparation essentiels et itinéraires pour conquérir le plus haut sommet d'Afrique.",
+      "author": "Michael Chen",
+      "date": "10 Mars 2025",
+      "readTime": "7 min de lecture",
+      "category": "Aventure",
+      "tags": ["Kilimandjaro", "Randonnée", "Aventure"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "title": "Parc National de Kitulo : Le Jardin de Dieu en Tanzanie",
+      "excerpt": "Explorez le paradis botanique du plateau de Kitulo, avec ses spectaculaires champs de fleurs sauvages et ses paysages alpins uniques.",
+      "author": "Emma Williams",
+      "date": "5 Mars 2025",
+      "readTime": "4 min de lecture",
+      "category": "Nature",
+      "tags": ["Kitulo", "Fleurs Sauvages", "Randonnée", "Botanique"],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    }
+  ],
+  "packageDetails": {
+    "europe": {
+      "title": "EMBARQUEZ POUR LE VOYAGE PITTORESQUE DE L'EUROPE",
+      "region": "Europe",
+      "duration": "12 Jours/10 Nuits",
+      "price": "3 199 $*",
+      "basis": "Par personne en base chambre double/twin",
+      "highlights": [
+        "Visite de la Tour Eiffel avec toast au champagne",
+        "Croisière sur les canaux d'Amsterdam",
+        "Voyage panoramique en train dans les Alpes suisses",
+        "Visite de la Cité du Vatican incluant la Chapelle Sixtine",
+        "Promenade en gondole à Venise",
+        "Excursion aux Chutes du Rhin"
+      ],
+      "itinerary": [
+        "Jours 1-2: Paris - Tour Eiffel, Musée du Louvre, Croisière sur la Seine",
+        "Jour 3: Bruxelles - Grand Place, Atomium",
+        "Jour 4: Amsterdam - Croisière sur les canaux, Maison d'Anne Frank",
+        "Jours 5-6: Berlin - Porte de Brandebourg, Mur de Berlin",
+        "Jours 7-8: Alpes suisses - Jungfraujoch, Interlaken",
+        "Jour 9: Liechtenstein - Château de Vaduz",
+        "Jour 10: Vienne - Palais Schönbrunn",
+        "Jours 11-12: Rome - Colisée, Cité du Vatican"
+      ],
+      "inclusions": ["Séjour à l'hôtel", "Petit-déjeuner + Dîner", "Transferts aéroport", "Visites touristiques", "Service de guide accompagnateur"],
+      "accommodation": "Hôtels 4 étoiles en centre-ville",
+      "bestTime": "Mai à Septembre",
+      "groupSize": "Petits groupes de 15-20"
+    },
+    "southAfrica": {
+      "title": "CÉLÉBREZ LES FÊTES DE L'AÏD AVEC UNE ÉCHAPPÉE JOYEUSE",
+      "region": "Afrique du Sud",
+      "duration": "4 Nuits/5 Jours",
+      "price": "344 USD*",
+      "basis": "par personne en base chambre double/twin",
+      "highlights": [
+        "Visite du township de Soweto incluant la Maison de Mandela",
+        "Safaris matin et soir à Pilanesberg",
+        "Complexe de divertissement et casino Sun City",
+        "Spectacles de danse culturelle",
+        "Visite du Berceau de l'Humanité"
+      ],
+      "itinerary": [
+        "Jour 1: Arrivée à Johannesburg - Transfert à Sun City",
+        "Jour 2: Parc National Pilanesberg - Safaris",
+        "Jour 3: Sun City - Valley of Waves, Casino",
+        "Jour 4: Visite de Soweto - Maison de Mandela, Rue Vilakazi",
+        "Jour 5: Départ"
+      ],
+      "inclusions": ["Hébergement 4N à Johannesburg en hôtel 3 étoiles/similaire", "Visites touristiques et expériences culturelles", "Accès gratuit au complexe Peermont"]
+    },
+    "egypt": {
+      "title": "CÉLÉBREZ L'AÏD AVEC UN VOYAGE À TRAVERS LES MERVEILLES ANTIQUES",
+      "region": "Égypte",
+      "duration": "4 Nuits/5 Jours",
+      "price": "780 USD*",
+      "basis": "par personne en base chambre double/twin",
+      "highlights": [
+        "Visite des Pyramides de Gizeh et du Sphinx",
+        "Musée Égyptien avec les trésors de Toutankhamon",
+        "Complexe des temples de Louxor et Karnak",
+        "Vol en montgolfière au-dessus de la Vallée des Rois",
+        "Balade en felouque sur le Nil"
+      ],
+      "itinerary": [
+        "Jour 1: Le Caire - Pyramides de Gizeh, Sphinx",
+        "Jour 2: Le Caire - Musée Égyptien, Khan El Khalili",
+        "Jour 3: Vol pour Louxor - Temple de Karnak, Temple de Louxor",
+        "Jour 4: Louxor - Vallée des Rois, Temple d'Hatchepsout",
+        "Jour 5: Retour au Caire pour le départ"
+      ],
+      "inclusions": [
+        "3N d'hébergement au Caire au Pyramids Park Resort/similaire (base petit-déjeuner)",
+        "1N d'hébergement à Louxor à l'Aracan Luxor Hotel/similaire (base petit-déjeuner)",
+        "Tous les transferts au Caire et à Louxor",
+        "Guide égyptologue multilingue expert",
+        "Toutes vos visites et excursions avec véhicule climatisé",
+        "Service d'accueil et d'assistance à toutes vos destinations",
+        "Toutes vos visites incluent les droits d'entrée",
+        "Nos prix incluent toutes les taxes et services"
+      ]
+    }
+  }
+}

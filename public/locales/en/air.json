@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "badge": "IATA Accredited Agency • 15+ Years Experience",
+    "title": "Fly Beyond",
+    "subtitle": "Unlock the world with premium air ticketing services. Best fares, trusted partnerships, and 24/7 support.",
+    "button": "Book Your Flight"
+  },
+  "benefits": {
+    "global": {
+      "title": "Global Network",
+      "description": "Access to 500+ airlines worldwide"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Round-the-clock booking assistance"
+    },
+    "price": {
+      "title": "Best Price Guarantee",
+      "description": "Competitive fares on all routes"
+    },
+    "payment": {
+      "title": "Flexible Payment",
+      "description": "Multiple payment options available"
+    }
+  },
+  "services": {
+    "title": "AIR TICKETING & FLIGHT BOOKINGS",
+    "description1": "We provide professional air ticketing services for domestic, regional, and international travel. Whether you are traveling for business, leisure, education, or corporate engagements, we secure the most suitable flight options across Economy, Business, and First Class categories.",
+    "description2": "Our objective is to deliver accurate bookings, competitive fares, and reliable support from reservation to departure."
+  },
+  "partners": {
+    "badge": "Our Partners",
+    "title": "Trusted Airlines Worldwide",
+    "subtitle": "We partner with leading global airlines to offer you the best fares and routes"
+  },
+  "airlines": {
+    "american": "American Airlines",
+    "swiss": "Swiss Airlines",
+    "british": "British Airways",
+    "qatar": "Qatar Airways",
+    "emirates": "Emirates",
+    "turkish": "Turkish Airlines"
+  },
+  "assistance": {
+    "title": "Need Assistance With Your Booking?",
+    "subtitle": "Contact our travel experts for corporate fares, group travel, and personalized flight arrangements.",
+    "whyCall": "Why call us?",
+    "features": {
+      "instant": "Instant confirmation",
+      "guarantee": "Best price guarantee",
+      "support": "24/7 customer support"
+    }
+  }
+}

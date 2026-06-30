@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "badge": "Agence accréditée IATA • 15+ ans d'expérience",
+    "title": "Volez Plus Loin",
+    "subtitle": "Découvrez le monde avec des services de billetterie aérienne premium. Meilleurs tarifs, partenariats de confiance et assistance 24/7.",
+    "button": "Réservez Votre Vol"
+  },
+  "benefits": {
+    "global": {
+      "title": "Réseau mondial",
+      "description": "Accès à plus de 500 compagnies aériennes"
+    },
+    "support": {
+      "title": "Assistance 24/7",
+      "description": "Aide à la réservation 24h/24"
+    },
+    "price": {
+      "title": "Meilleur prix garanti",
+      "description": "Tarifs compétitifs sur toutes les routes"
+    },
+    "payment": {
+      "title": "Paiement flexible",
+      "description": "Plusieurs options de paiement disponibles"
+    }
+  },
+  "services": {
+    "title": "BILLETTERIE AÉRIENNE & RÉSERVATIONS DE VOLS",
+    "description1": "Nous fournissons des services professionnels de billetterie aérienne pour les voyages nationaux, régionaux et internationaux. Que vous voyagiez pour affaires, loisirs, études ou engagements professionnels, nous sécurisons les options de vol les plus appropriées en classe Économique, Affaires et Première.",
+    "description2": "Notre objectif est d'offrir des réservations précises, des tarifs compétitifs et un soutien fiable de la réservation au départ."
+  },
+  "partners": {
+    "badge": "Nos partenaires",
+    "title": "Compagnies aériennes partenaires",
+    "subtitle": "Nous collaborons avec les principales compagnies aériennes mondiales pour vous offrir les meilleurs tarifs et itinéraires"
+  },
+  "airlines": {
+    "american": "American Airlines",
+    "swiss": "Swiss Airlines",
+    "british": "British Airways",
+    "qatar": "Qatar Airways",
+    "emirates": "Emirates",
+    "turkish": "Turkish Airlines"
+  },
+  "assistance": {
+    "title": "Besoin d'aide pour votre réservation ?",
+    "subtitle": "Contactez nos experts en voyages pour les tarifs d'entreprise, les voyages de groupe et les arrangements de vol personnalisés.",
+    "whyCall": "Pourquoi nous appeler ?",
+    "features": {
+      "instant": "Confirmation instantanée",
+      "guarantee": "Meilleur prix garanti",
+      "support": "Assistance client 24/7"
+    }
+  }
+}

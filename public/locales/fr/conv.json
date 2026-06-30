@@ -1,0 +1,36 @@
+{
+  "section": {
+    "badge": "Concierge de Voyage",
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Tout ce que vous devez savoir avant votre aventure en Tanzanie"
+  },
+  "faqs": [
+    {
+      "q": "Ai-je besoin d'un visa pour visiter la Tanzanie?",
+      "a": "La plupart des visiteurs ont besoin d'un visa. Vous pouvez obtenir un visa à l'arrivée aux principaux points d'entrée ou faire une demande en ligne sur immigration.go.tz. Les citoyens américains, britanniques et de l'UE reçoivent généralement un visa à entrée unique de 90 jours pour 50 $. Nous aidons tous nos clients avec les procédures de visa."
+    },
+    {
+      "q": "Quelle est la meilleure période pour visiter la Tanzanie?",
+      "a": "Juin–octobre est la haute saison des safaris (sec, excellente observation de la faune). Janvier–février est la saison des naissances dans le Serengeti. Les traversées de rivières de la Grande Migration ont lieu juillet–septembre. Zanzibar est idéal juin–octobre et décembre–février."
+    },
+    {
+      "q": "Que dois-je emporter pour un safari?",
+      "a": "Vêtements de couleur neutre (kaki, olive, beige), couches pour les matins frais, chapeau à larges bords, crème solaire (SPF 50+), anti-moustique, jumelles, un bon appareil photo avec zoom, chaussures de marche confortables et une veste imperméable légère."
+    },
+    {
+      "q": "La Tanzanie est-elle sûre pour les touristes?",
+      "a": "La Tanzanie est l'un des pays les plus sûrs d'Afrique de l'Est pour les touristes. Les précautions standard s'appliquent : utilisez des voyagistes enregistrés (comme nous !), évitez de marcher seul la nuit dans les villes et gardez vos objets de valeur en sécurité. Nos guides assurent votre sécurité tout au long du voyage."
+    },
+    {
+      "q": "Quelle monnaie est utilisée en Tanzanie?",
+      "a": "Le shilling tanzanien (TZS) est la monnaie locale. Les dollars américains sont largement acceptés dans les hôtels, lodges et pour les paiements de safari. Les distributeurs automatiques sont disponibles dans les grandes villes. Nous recommandons d'apporter de petites coupures pour les pourboires et les achats locaux."
+    },
+    {
+      "q": "Ai-je besoin de vaccins?",
+      "a": "Le vaccin contre la fièvre jaune est requis si vous voyagez depuis un pays endémique. Recommandés : Hépatite A & B, Typhoïde et prophylaxie antipaludique. Consultez votre médecin au moins 6 semaines avant le départ. Nous fournissons des conseils sanitaires complets."
+    }
+  ],
+  "footer": {
+    "text": "Vous avez d'autres questions? Nous sommes là pour vous aider!"
+  }
+}

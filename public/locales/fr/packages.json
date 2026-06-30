@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "title": "Découvrez Votre",
+    "highlight": "Prochaine Aventure",
+    "subtitle": "Expériences de voyage soigneusement sélectionnées pour les prochaines vacances. Réservez maintenant et économisez gros !"
+  },
+  "sections": {
+    "featured": "Offres Spéciales pour l'Aïd et Pâques",
+    "whyChoose": "Pourquoi Voyager Avec Nous"
+  },
+  "labels": {
+    "perPerson": "par personne*",
+    "packageId": "ID du Forfait",
+    "duration": "Durée",
+    "validity": "Validité",
+    "inclusions": "Inclusions",
+    "availableDates": "Dates Disponibles",
+    "sendInquiry": "Envoyer une Demande"
+  },
+  "packages": [
+    {
+      "id": 1,
+      "region": "Europe",
+      "title": "EMBARQUEZ POUR LE VOYAGE PITTORESQUE DE L'EUROPE",
+      "description": "Découvrez la romance de la France, le charme de la Belgique, les canaux des Pays-Bas, l'histoire de l'Allemagne, les Alpes suisses, la principauté du Liechtenstein, la culture de l'Autriche et la passion de l'Italie lors de ce circuit européen complet.",
+      "duration": "Circuit Multi-Pays",
+      "countries": ["France", "Belgique", "Pays-Bas", "Allemagne", "Suisse", "Liechtenstein", "Autriche", "Italie"],
+      "inclusions": ["Séjour à l'hôtel", "Petit-déjeuner + Dîner", "Transferts aéroport", "Visites touristiques", "Service de guide accompagnateur"]
+    },
+    {
+      "id": 2,
+      "region": "Chine",
+      "title": "FOIRE DE CANTON 2026 CHINE",
+      "description": "Parfait pour les voyageurs d'affaires ! Visitez la célèbre Foire de Canton avec un hébergement confortable 4 étoiles et un service de navette fluide vers et depuis le site de la foire. Inclut une visite de la ville de Guangzhou et les transferts aéroport aller-retour.",
+      "duration": "6 Nuits/7 Jours",
+      "inclusions": [
+        "6N d'hébergement en Chine dans un hôtel 4 étoiles",
+        "Visite de la ville de Guangzhou",
+        "Service de navette vers/depuis la Foire de Canton",
+        "Transferts aéroport aller-retour"
+      ],
+      "note": "Les tarifs des forfaits sont sujets aux fluctuations des taux de change. Toutes les chambres, tarifs et services sont soumis à disponibilité au moment de la confirmation."
+    },
+    {
+      "id": 3,
+      "region": "Afrique du Sud",
+      "title": "CÉLÉBREZ PÂQUES DANS LA DESTINATION LA PLUS ICONIQUE - AFRIQUE DU SUD",
+      "description": "Célébrez Pâques dans la destination la plus emblématique avec un mélange parfait de luxe et d'aventure.",
+      "duration": "6 Nuits/7 Jours",
+      "locations": ["Johannesburg", "Sun City", "Pilanesberg"],
+      "inclusions": [
+        "3N d'hébergement à Johannesburg au Peermont D'Oreale Grande ou similaire (base petit-déjeuner)",
+        "3N d'hébergement à Sun City au Cascades Hotel ou similaire (base petit-déjeuner)",
+        "2N d'hébergement à Pilanesberg à l'Ivory Tree Lodge ou similaire (base petit-déjeuner)",
+        "Accès gratuit au Sun City Resort",
+        "Entrée à la Vallée des Vagues"
+      ]
+    },
+    {
+      "id": 4,
+      "region": "Afrique du Sud",
+      "title": "EXPLOREZ UNE EXPÉRIENCE SAFARI IMMERSIVE - AFRIQUE DU SUD",
+      "description": "Vivez l'aventure safari ultime avec des safaris, des visites de vignobles et des vues à couper le souffle.",
+      "duration": "6 Nuits/7 Jours",
+      "locations": ["Le Cap", "Réserve Animalière d'Aquila"],
+      "inclusions": [
+        "4N d'hébergement au Cap à l'Hotel Sky (4 étoiles) ou similaire en base petit-déjeuner",
+        "2N d'hébergement à la Réserve d'Aquila dans un hôtel 4 étoiles ou similaire en pension complète",
+        "Safari en après-midi dans un véhicule 4x4 ouvert",
+        "Visite de Table Mountain et de la ville",
+        "Visite des vignobles",
+        "Visite de la Péninsule du Cap"
+      ],
+      "note": "Les fluctuations des taux de change peuvent affecter les tarifs des forfaits. Au moment de la confirmation, la disponibilité affecte toutes les chambres, tarifs et services. Les tarifs ne s'appliquent pas aux événements, salons professionnels, longs week-ends, festivals ou dates exclues."
+    },
+    {
+      "id": 5,
+      "region": "Afrique du Sud",
+      "title": "CÉLÉBREZ PÂQUES AVEC UNE AVENTURE SAUVAGE INOUBLIABLE",
+      "description": "Vivez des safaris palpitants et des rencontres rapprochées avec la magnifique faune d'Afrique dans le Parc National Kruger.",
+      "duration": "3 Nuits/4 Jours",
+      "locations": ["Parc National Kruger"],
+      "inclusions": [
+        "3N d'hébergement à Kruger au Kruger Gate Lodge ou similaire en demi-pension",
+        "Safari en après-midi à Kruger le jour 1",
+        "Safari programmé d'une journée complète à Kruger les jours 2 et 3",
+        "Safari matinal à Kruger le jour 4",
+        "Véhicule de luxe climatisé pour les transferts",
+        "Véhicule de safari 4x4 ouvert pour les activités dans Kruger",
+        "Services d'un chauffeur anglophone uniquement pour les transferts retour",
+        "Services d'un guide de safari anglophone pour les activités dans Kruger",
+        "Safari journée complète 05h30-16h00 (avr-sept) et 05h00-15h30 (oct-mars)",
+        "Safari matinal 05h30-12h00 (avr-sept) et 05h00-11h30 (oct-mars)",
+        "Safari après-midi 13h00-17h30 (mai-juil) et 14h00-18h00 (août-avr)"
+      ],
+      "note": "Les tarifs des forfaits sont sujets aux fluctuations des taux de change. Toutes les chambres, tarifs et services sont soumis à disponibilité au moment de la confirmation."
+    },
+    {
+      "id": 6,
+      "region": "Dubaï",
+      "title": "VIVEZ UNE CÉLÉBRATION PREMIUM DE L'AÏD AL FITR À DUBAÏ",
+      "description": "Célébrez l'Aïd en style avec des hébergements de luxe, des safaris dans le désert et des attractions emblématiques de Dubaï.",
+      "duration": "5 Nuits/6 Jours",
+      "locations": ["Dubaï"],
+      "inclusions": [
+        "5N d'hébergement – Chambre et petit-déjeuner",
+        "Visite d'une demi-journée de Dubaï (Trio)",
+        "Croisière au dîner BBQ sur une boutre à Marina (Trio)",
+        "Safari dans le désert avec dîner BBQ (Trio)",
+        "Dubai Frame – Transferts SIC",
+        "Visite du 124ème étage du Burj Khalifa (Heures non-prime)",
+        "Aquarium de Dubaï et Zoo Sous-Marin",
+        "Billet Combo – SIC",
+        "Entrée au Miracle Garden + Global Village – SIC",
+        "Transferts aéroport aller-retour – Privé",
+        "Tous les circuits et transferts"
+      ],
+      "priceNote": "Par personne (base chambre double/twin)"
+    },
+    {
+      "id": 7,
+      "region": "Afrique du Sud",
+      "title": "RÉSERVEZ VOTRE ESCAPADE DE PÂQUES VERS LA NATION ARC-EN-CIEL",
+      "description": "Découvrez la beauté de l'Afrique du Sud avec des visites de villages culturels, Sun City et la Vallée des Vagues.",
+      "duration": "4 Nuits/5 Jours",
+      "locations": ["Johannesburg", "Sun City"],
+      "inclusions": [
+        "1N d'hébergement à Johannesburg à l'hôtel Metcourt ou similaire (base petit-déjeuner)",
+        "3N d'hébergement à Sun City aux Cabanas ou similaire (base petit-déjeuner)",
+        "Accès gratuit au Peermont resort",
+        "Accès gratuit au Sun City Resort",
+        "Accès gratuit au parc aquatique Valley of Waves",
+        "Frais d'entrée pour le village culturel Lesedi",
+        "Services d'un guide anglophone tout au long du circuit",
+        "Véhicule de luxe climatisé pour 20 pax. Ceci inclura : 1 guide local FOC + 1 accompagnateur FOC"
+      ]
+    },
+    {
+      "id": 8,
+      "region": "Afrique du Sud",
+      "title": "RÉSERVEZ UNE ESCAPADE DE PÂQUES À SUN CITY",
+      "description": "Profitez d'une escapade de Pâques relaxante avec un accès gratuit aux équipements de classe mondiale de Sun City.",
+      "duration": "4 Nuits/5 Jours",
+      "locations": ["Johannesburg", "Sun City"],
+      "inclusions": [
+        "1N d'hébergement à Johannesburg au Mondior Concorde ou similaire (base petit-déjeuner)",
+        "3N d'hébergement à Sun City au Cascades Hotel ou similaire (base petit-déjeuner)",
+        "Accès gratuit au Peermont resort",
+        "Accès gratuit au Sun City Resort",
+        "Accès gratuit au parc aquatique Valley of Waves"
+      ],
+      "note": "Les tarifs des forfaits sont sujets aux fluctuations des taux de change. Toutes les chambres, tarifs et services sont soumis à disponibilité."
+    }
+  ],
+  "whyChoose": [
+    { "title": "Meilleur Prix Garanti", "desc": "Prix imbattables sur tous les forfaits" },
+    { "title": "Guides Experts", "desc": "Experts locaux avec une connaissance approfondie" },
+    { "title": "Assistance 24/7", "desc": "Aide disponible 24 heures sur 24" },
+    { "title": "Réservation Flexible", "desc": "Annulation gratuite et changements de dates" }
+  ]
+}

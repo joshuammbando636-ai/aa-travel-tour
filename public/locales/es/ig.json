@@ -1,0 +1,39 @@
+{
+  "section": {
+    "title": "Sigue Nuestras Aventuras",
+    "subtitle": "@AATravelTanzania en Instagram",
+    "button": "Síguenos en Instagram"
+  },
+  "photos": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=400&q=80",
+      "alt": "Atardecer en Serengeti"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=400&q=80",
+      "alt": "Encuentro con vida silvestre"
+    },
+    {
+      "id": 3,
+      "image": "images/airlines/tz.jpg",
+      "alt": "Ascenso al Kilimanjaro"
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=400&q=80",
+      "alt": "Playa de Zanzíbar"
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=400&q=80",
+      "alt": "Vehículo de safari"
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1551969014-7d2c4cddf0b6?w=400&q=80",
+      "alt": "Gorila de montaña"
+    }
+  ]
+}

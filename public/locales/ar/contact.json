@@ -1,0 +1,40 @@
+{
+  "section": {
+    "badge": "تواصل معنا",
+    "title": "اتصل بنا",
+    "subtitle": "AA TRAVEL SERVICES (قسم من AA Travels & Tours Ltd) — كاريبو sana!"
+  },
+  "form": {
+    "name": "اسمك",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "interest": "اختر اهتمامك بالسفر",
+    "message": "أخبرنا عن رحلة أحلامك...",
+    "submit": "إرسال الاستفسار",
+    "submitting": "جاري الإرسال..."
+  },
+  "interests": {
+    "air": "حجز تذاكر الطيران",
+    "visa": "خدمات التأشيرات",
+    "safari": "رحلات السفاري",
+    "zanzibar": "جولة في زنجبار",
+    "corporate": "إدارة سفر الشركات",
+    "holiday": "باقة عطلة",
+    "car": "تأجير سيارات",
+    "other": "أخرى"
+  },
+  "thankYou": {
+    "title": "أسانتي sana! 🇹🇿",
+    "message": "شكراً لاختيارك AA Travel Services! سيعود فريقنا إليك خلال ٢٤ ساعة.",
+    "direct": "في هذه الأثناء، لا تتردد في الاتصال بنا مباشرة:",
+    "newInquiry": "إرسال استفسار آخر"
+  },
+  "office": {
+    "title": "مكتبنا",
+    "name": "AA TRAVEL SERVICES",
+    "division": "(قسم من AA Travels & Tours Ltd)",
+    "address1": "الطابق ١٣ مبنى ديرم بلازا",
+    "address2": "طريق باغامويو الجديد - كيجيتونياما",
+    "address3": "دار السلام - تنزانيا"
+  }
+}

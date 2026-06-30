@@ -1,0 +1,23 @@
+{
+  "header": {
+    "title": "À Propos de Nous",
+    "subtitle": "100% Tanzanien - Propriété et Gestion Locales"
+  },
+  "whoWeAre": {
+    "title": "Qui Sommes-Nous",
+    "paragraph1": "AA Travel & Tours Ltd s'est forgé une réputation comme l'un des meilleurs opérateurs de circuits et de voyages en Tanzanie. Nous visons à offrir une satisfaction complète à nos clients, menant à des relations clients à long terme.",
+    "paragraph2": "Notre client est quelqu'un qui recherche ce \"petit plus.\" Nous n'offrons pas simplement l'itinéraire touristique standard, mais nous concevons plutôt un itinéraire personnalisé adapté à vos besoins, intérêts et budget.",
+    "paragraph3": "En tant qu'entreprise 100% tanzanienne, nous apportons une expertise locale inégalée et une passion authentique pour partager la beauté de notre patrie avec le monde."
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "description": "Être une entreprise facile et conviviale avec qui traiter, comprenant les frustrations des voyages d'affaires et offrant aux clients des solutions simples, rapides et efficaces."
+  },
+  "vision": {
+    "title": "Notre Vision",
+    "description": "Être un leader du marché réputé avec un succès continu dans l'industrie du voyage et du tourisme."
+  },
+  "cta": {
+    "button": "Contactez-Nous"
+  }
+}

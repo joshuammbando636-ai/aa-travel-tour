@@ -1,0 +1,36 @@
+{
+  "section": {
+    "badge": "Travel Concierge",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know before your Tanzania adventure"
+  },
+  "faqs": [
+    {
+      "q": "Do I need a visa to visit Tanzania?",
+      "a": "Most visitors need a visa. You can get a visa on arrival at major entry points or apply online at immigration.go.tz. US, UK, and EU citizens typically receive a 90-day single-entry visa for $50. We assist all our clients with visa processing."
+    },
+    {
+      "q": "When is the best time to visit Tanzania?",
+      "a": "June–October is peak safari season (dry, great wildlife viewing). January–February is calving season in the Serengeti. The Great Migration river crossings happen July–September. Zanzibar is best June–October and December–February."
+    },
+    {
+      "q": "What should I pack for a safari?",
+      "a": "Neutral-colored clothing (khaki, olive, beige), layers for cool mornings, a wide-brimmed hat, sunscreen (SPF 50+), insect repellent, binoculars, a good camera with zoom lens, comfortable walking shoes, and a light rain jacket."
+    },
+    {
+      "q": "Is Tanzania safe for tourists?",
+      "a": "Tanzania is one of the safest countries in East Africa for tourists. Standard precautions apply: use registered tour operators (like us!), avoid walking alone at night in cities, and keep valuables secure. Our guides ensure your safety throughout."
+    },
+    {
+      "q": "What currency is used in Tanzania?",
+      "a": "The Tanzanian Shilling (TZS) is the local currency. US dollars are widely accepted at hotels, lodges, and for safari payments. ATMs are available in major cities. We recommend carrying small bills for tips and local purchases."
+    },
+    {
+      "q": "Do I need vaccinations?",
+      "a": "Yellow fever vaccination is required if traveling from an endemic country. Recommended: Hepatitis A & B, Typhoid, and anti-malaria prophylaxis. Consult your travel doctor at least 6 weeks before departure. We provide a full health advisory."
+    }
+  ],
+  "footer": {
+    "text": "Have more questions? We're here to help!"
+  }
+}

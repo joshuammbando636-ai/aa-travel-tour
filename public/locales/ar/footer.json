@@ -1,0 +1,21 @@
+{
+  "brand": {
+    "title": "AA TRAVEL & TOURS",
+    "description": "تواصل مع القارات السبع من خلالنا. ١٠٠٪ تنزانية - ملكية وتشغيل محلي.",
+    "welcome": "Karibu Sana! 🇹🇿"
+  },
+  "quickLinks": {
+    "title": "روابط سريعة",
+    "home": "الرئيسية",
+    "airTicketing": "حجز تذاكر الطيران",
+    "safari": "وجهة السفاري",
+    "cmt": "CMT",
+    "visa": "تأشيرة",
+    "about": "من نحن",
+    "contact": "اتصل بنا"
+  },
+  "follow": {
+    "title": "تابعنا"
+  },
+  "copyright": "© {year} AA TRAVEL & TOURS LIMITED. جميع الحقوق محفوظة."
+}

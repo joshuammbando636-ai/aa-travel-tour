@@ -1,0 +1,107 @@
+{
+  "header": {
+    "title": "Calendario de Vida Silvestre",
+    "subtitle": "Guía de Vida Silvestre y Migración en Tanzania 2024-2025"
+  },
+  "legend": {
+    "peak": "Excelente (Temporada Alta)",
+    "good": "Bueno",
+    "low": "Bajo / Evitar"
+  },
+  "months": {
+    "jan": "Ene",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Abr",
+    "may": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Ago",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dic"
+  },
+  "details": {
+    "temperature": "Temperatura",
+    "highLow": "Máx / Mín",
+    "rainfall": "Precipitación",
+    "probability": "Probabilidad",
+    "crowdLevel": "Nivel de Multitudes",
+    "bestParks": "Mejores Parques",
+    "whatToSee": "Qué Ver"
+  },
+  "wildlife": {
+    "greatMigration": "Gran Migración",
+    "bigFive": "Big Five (Serengeti)",
+    "elephantHerds": "Manadas de Elefantes",
+    "birdWatching": "Observación de Aves",
+    "whaleSharks": "Tiburones Ballena (Mafia)",
+    "chimpanzees": "Chimpancés (Mahale)",
+    "nestingTurtles": "Tortugas Anidando",
+    "flamingos": "Flamencos (Natron)",
+    "wildebeestCalving": "Nacimiento de Ñus",
+    "riverCrossings": "Cruces de Ríos",
+    "zebraMigration": "Migración de Cebras",
+    "predatorAction": "Acción de Depredadores"
+  },
+  "parks": {
+    "serengetiSouth": "Serengeti (Sur)",
+    "serengetiWest": "Serengeti (Oeste)",
+    "serengetiNorth": "Serengeti (Norte)",
+    "ngorongoro": "Ngorongoro",
+    "manyara": "Lago Manyara",
+    "tarangire": "Tarangire",
+    "selous": "Selous",
+    "ruaha": "Ruaha",
+    "katavi": "Katavi",
+    "mahale": "Montañas Mahale",
+    "gombe": "Gombe",
+    "mafia": "Isla Mafia",
+    "masaiMara": "Masai Mara",
+    "arusha": "Arusha",
+    "zanzibar": "Zanzíbar"
+  },
+  "migrationNotes": {
+    "jan": "Serengeti Sur — pico de nacimientos (8,000 ñus nacen diariamente)",
+    "feb": "Serengeti Sur — nacimientos continúan, depredadores en abundancia",
+    "mar": "Manadas moviéndose al oeste, largas lluvias — excelentes tarifas de temporada baja",
+    "apr": "Fuertes lluvias — mejor momento para viajeros con presupuesto y fotógrafos",
+    "may": "Fin de lluvias, manadas en corredor oeste — temporada media",
+    "jun": "Corredor Oeste — comienzan cruces del río Grumeti",
+    "jul": "Serengeti Norte — comienzan cruces del río Mara",
+    "aug": "Serengeti Norte — pico de cruces del Mara (miles cruzan diariamente)",
+    "sep": "Serengeti Norte — tiburones ballena llegan a Isla Mafia",
+    "oct": "Manadas moviéndose al sur, lluvias cortas — tarifas temporada media",
+    "nov": "Moviéndose al sur, lluvias cortas — safari excelente relación calidad-precio",
+    "dec": "Regreso al sur del Serengeti — reservar con 4+ meses de anticipación"
+  },
+  "whatToSee": {
+    "jan": ["Pico de nacimientos", "Leones cazando recién nacidos", "Flamencos en Lago Manyara", "Paisajes verdes"],
+    "feb": ["Nacimientos continúan", "Excelente observación de depredadores", "Globos aerostáticos", "Manadas compactas"],
+    "mar": ["Comienzan lluvias largas", "Llegan aves migratorias", "Descuentos campamentos lujo", "Escenario exuberante"],
+    "apr": ["Fuertes lluvias", "Mejor observación de aves (500+ especies)", "Cielos dramáticos", "Descuentos 40%+"],
+    "may": ["Lluvias disminuyendo", "Migración corredor oeste", "Senderismo chimpancés", "Valles verdes"],
+    "jun": ["Comienza temporada seca", "Cruces río Grumeti", "Animales en abrevaderos", "Cielos despejados"],
+    "jul": ["Comienzan cruces Mara", "Clima perfecto", "Manadas elefantes en Tarangire", "Mañanas cristalinas"],
+    "aug": ["Pico cruces Mara", "Acción dramática cocodrilos", "Mejor observación fauna", "Reservar 6+ meses"],
+    "sep": ["Migración continúa norte", "Tiburones ballena en Mafia", "Paisajes secos", "Fotografía excelente"],
+    "oct": ["Comienzan lluvias cortas", "Migración hacia el sur", "Comienza temporada verde", "Buenas tarifas"],
+    "nov": ["Paisajes verdes", "Aves migratorias", "Menos multitudes", "Tarifas de valor"],
+    "dec": ["Temporada festiva", "Migración regresa sur", "Combo playa & safari", "Ambiente festivo"]
+  },
+  "footer": {
+    "text": "Datos basados en la Autoridad Meteorológica de Tanzania 2024-2025 e informes de parques. Haga clic en cualquier mes para información detallada."
+  },
+  "seasonLabels": {
+    "peak": "Alta",
+    "good": "Bueno",
+    "low": "Bajo"
+  },
+  "crowdLevels": {
+    "Low": "Bajo",
+    "Medium": "Medio",
+    "High": "Alto",
+    "Peak": "Temporada Alta"
+  }
+}

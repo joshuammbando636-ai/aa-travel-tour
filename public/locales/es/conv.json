@@ -1,0 +1,36 @@
+{
+  "section": {
+    "badge": "Conserje de Viajes",
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesita saber antes de su aventura en Tanzania"
+  },
+  "faqs": [
+    {
+      "q": "¿Necesito visa para visitar Tanzania?",
+      "a": "La mayoría de los visitantes necesitan visa. Puede obtener una visa a la llegada en los principales puntos de entrada o solicitarla en línea en immigration.go.tz. Los ciudadanos de EE.UU., Reino Unido y la UE generalmente reciben una visa de entrada única de 90 días por $50. Ayudamos a todos nuestros clientes con el proceso de visa."
+    },
+    {
+      "q": "¿Cuál es la mejor época para visitar Tanzania?",
+      "a": "Junio–octubre es la temporada alta de safari (seco, excelente observación de vida silvestre). Enero–febrero es la temporada de nacimientos en el Serengeti. Los cruces de ríos de la Gran Migración ocurren julio–septiembre. Zanzíbar es mejor junio–octubre y diciembre–febrero."
+    },
+    {
+      "q": "¿Qué debo empacar para un safari?",
+      "a": "Ropa de colores neutros (caqui, oliva, beige), capas para las mañanas frescas, sombrero de ala ancha, protector solar (SPF 50+), repelente de insectos, binoculares, una buena cámara con lente de zoom, zapatos cómodos para caminar y una chaqueta ligera impermeable."
+    },
+    {
+      "q": "¿Es seguro Tanzania para los turistas?",
+      "a": "Tanzania es uno de los países más seguros de África Oriental para los turistas. Se aplican precauciones estándar: use operadores turísticos registrados (¡como nosotros!), evite caminar solo por la noche en las ciudades y mantenga sus objetos de valor seguros. Nuestros guías garantizan su seguridad durante todo el viaje."
+    },
+    {
+      "q": "¿Qué moneda se usa en Tanzania?",
+      "a": "El chelín tanzano (TZS) es la moneda local. Los dólares estadounidenses son ampliamente aceptados en hoteles, alojamientos y para pagos de safaris. Hay cajeros automáticos disponibles en las principales ciudades. Recomendamos llevar billetes pequeños para propinas y compras locales."
+    },
+    {
+      "q": "¿Necesito vacunas?",
+      "a": "Se requiere la vacuna contra la fiebre amarilla si viaja desde un país endémico. Recomendadas: Hepatitis A y B, Tifoidea y profilaxis antipalúdica. Consulte a su médico al menos 6 semanas antes de la salida. Proporcionamos asesoramiento sanitario completo."
+    }
+  ],
+  "footer": {
+    "text": "¿Tiene más preguntas? ¡Estamos aquí para ayudar!"
+  }
+}

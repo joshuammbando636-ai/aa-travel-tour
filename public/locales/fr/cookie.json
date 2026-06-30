@@ -1,0 +1,38 @@
+{
+  "banner": {
+    "title": "🍪 Consentement aux Cookies",
+    "message": "Nous utilisons des cookies pour améliorer votre expérience, analyser le trafic du site et fournir un contenu personnalisé. Choisissez vos préférences ci-dessous."
+  },
+  "settings": {
+    "title": "Paramètres des Cookies",
+    "message": "Personnalisez vos préférences en matière de cookies. Les cookies essentiels sont toujours activés car ils sont nécessaires au bon fonctionnement du site.",
+    "necessary": {
+      "title": "Cookies Essentiels",
+      "description": "Nécessaires au fonctionnement de base du site. Ceux-ci ne peuvent pas être désactivés.",
+      "always": "Toujours Actif"
+    },
+    "analytics": {
+      "title": "Cookies Analytiques",
+      "description": "Nous aident à comprendre comment les visiteurs interagissent avec notre site, nous permettant d'améliorer votre expérience."
+    },
+    "marketing": {
+      "title": "Cookies Marketing",
+      "description": "Utilisés pour diffuser des publicités pertinentes et suivre l'efficacité des campagnes marketing."
+    },
+    "preferences": {
+      "title": "Cookies de Préférence",
+      "description": "Mémorisent vos paramètres et préférences pour fournir des fonctionnalités personnalisées améliorées."
+    }
+  },
+  "buttons": {
+    "acceptAll": "Tout Accepter",
+    "necessary": "Uniquement Nécessaire",
+    "customize": "Personnaliser",
+    "save": "Enregistrer"
+  },
+  "links": {
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Politique des Cookies"
+  }
+}

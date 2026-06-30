@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Streamlined Business Travel Solutions",
+    "subtitle": "End-to-end corporate travel management with dedicated support, preferred rates, and flexible credit terms."
+  },
+  "services": {
+    "title": "Corporate Travel Services",
+    "subtitle": "Comprehensive business travel solutions tailored to your company's needs",
+    "items": [
+      {
+        "title": "Corporate Air Ticketing",
+        "description": "Discounted business class and economy flights with flexible change policies and 24/7 rebooking support."
+      },
+      {
+        "title": "After Office Hours Support",
+        "description": "24/7 emergency travel support whenever you need us, day or night, including weekends and holidays."
+      },
+      {
+        "title": "Dedicated Travel Consultant",
+        "description": "Your personal travel manager who understands your company's unique needs and travel patterns."
+      },
+      {
+        "title": "Special Corporate Deals",
+        "description": "Exclusive negotiated rates with airlines, hotels, and car rental companies for corporate clients."
+      },
+      {
+        "title": "Hotel Arrangements",
+        "description": "Local and worldwide hotel bookings at preferential corporate rates with best available guarantees."
+      },
+      {
+        "title": "Travel Insurance",
+        "description": "Comprehensive travel insurance packages for peace of mind on every business trip."
+      },
+      {
+        "title": "Meet & Assist Service",
+        "description": "VIP airport meet and greet service for your executives and guests at major airports."
+      },
+      {
+        "title": "Visa Assistance",
+        "description": "Expert visa processing and documentation support for all business destinations worldwide."
+      },
+      {
+        "title": "Flexible Credit Facility",
+        "description": "15-30 day credit facility available for qualified corporate accounts with monthly consolidated billing."
+      },
+      {
+        "title": "Expense Management",
+        "description": "Simplified reporting and consolidated invoicing for your finance team with detailed breakdowns."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Streamline Your Corporate Travel?",
+    "subtitle": "Let us design a corporate travel program that saves your company time and money while providing exceptional service for your employees.",
+    "button": "Get a Corporate Quote",
+    "email": "Email",
+    "phone": "Phone"
+  }
+}

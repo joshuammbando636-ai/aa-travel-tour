@@ -1,0 +1,76 @@
+{
+  "header": {
+    "badge": "Voyage Durable",
+    "title": "Calculateur Écologique",
+    "subtitle": "Estimez l'empreinte carbone de votre voyage et compensez naturellement"
+  },
+  "form": {
+    "title": "Calculez Votre Empreinte",
+    "tripStyle": "Style de Voyage",
+    "duration": "Durée",
+    "groupSize": "Taille du Groupe",
+    "transport": "Transport Principal",
+    "calculate": "Calculer l'Empreinte",
+    "calculating": "Calcul en cours...",
+    "days": "jours",
+    "day": "jour",
+    "person": "personne",
+    "people": "personnes"
+  },
+  "tripTypes": {
+    "budget": "Budget",
+    "mid": "Milieu de Gamme",
+    "luxury": "Luxe"
+  },
+  "transportTypes": {
+    "flight": "Vols",
+    "drive": "Véhicule Safari",
+    "mixed": "Mixte"
+  },
+  "results": {
+    "title": "Empreinte Carbone Estimée",
+    "unit": "kg CO₂",
+    "treesToOffset": "Arbres à planter :",
+    "trees": "arbres",
+    "offset": "Compenser par la Plantation d'Arbres",
+    "breakdown": {
+      "transport": "Transport",
+      "accommodation": "Hébergement",
+      "activities": "Activités",
+      "food": "Nourriture & Autre"
+    }
+  },
+  "comparisons": {
+    "excellent": "🌱 Excellent! Empreinte inférieure à la moyenne des safaris.",
+    "good": "👍 Bien! Dans la moyenne des safaris en Tanzanie.",
+    "consider": "💡 Envisagez de compenser ce voyage avec notre programme de plantation d'arbres."
+  },
+  "ecoTips": {
+    "budget": "Les safaris budget utilisent des véhicules partagés et du camping — empreinte plus faible!",
+    "mid": "Les lodges de milieu de gamme utilisent souvent l'énergie solaire et la conservation de l'eau.",
+    "luxury": "Les lodges de luxe compensent le carbone, mais le transport privé augmente l'empreinte.",
+    "flight": "Envisagez de combiner vols et transferts routiers pour réduire les émissions.",
+    "drive": "Les véhicules safari sont efficaces — vous faites déjà un bon choix!",
+    "mixed": "Combinaison intelligente! Mélanger les types de transport équilibre commodité et empreinte."
+  },
+  "placeholder": {
+    "text": "Remplissez le formulaire et cliquez sur calculer pour voir l'empreinte carbone de votre voyage"
+  },
+  "initiatives": {
+    "tree": {
+      "title": "Plantation d'Arbres",
+      "description": "Nous plantons 5 arbres pour chaque safari réservé via nos partenaires de reforestation."
+    },
+    "carbon": {
+      "title": "Compensation Carbone",
+      "description": "Programme optionnel de compensation carbone disponible pour tous nos forfaits voyage."
+    },
+    "water": {
+      "title": "Eau Propre",
+      "description": "Soutien aux projets d'eau potable dans les communautés près des parcs nationaux."
+    }
+  },
+  "footer": {
+    "note": "* Calculs basés sur les directives de la CCNUCC et du voyage durable. L'empreinte réelle peut varier."
+  }
+}

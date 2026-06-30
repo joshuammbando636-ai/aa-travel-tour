@@ -1,0 +1,76 @@
+{
+  "header": {
+    "badge": "Viaje Sostenible",
+    "title": "Calculadora Ecológica",
+    "subtitle": "Estime la huella de carbono de su viaje y compense naturalmente"
+  },
+  "form": {
+    "title": "Calcule Su Huella",
+    "tripStyle": "Estilo de Viaje",
+    "duration": "Duración",
+    "groupSize": "Tamaño del Grupo",
+    "transport": "Transporte Principal",
+    "calculate": "Calcular Huella",
+    "calculating": "Calculando...",
+    "days": "días",
+    "day": "día",
+    "person": "persona",
+    "people": "personas"
+  },
+  "tripTypes": {
+    "budget": "Económico",
+    "mid": "Gama Media",
+    "luxury": "Lujo"
+  },
+  "transportTypes": {
+    "flight": "Vuelos",
+    "drive": "Vehículo Safari",
+    "mixed": "Mixto"
+  },
+  "results": {
+    "title": "Huella de Carbono Estimada",
+    "unit": "kg CO₂",
+    "treesToOffset": "Árboles para compensar:",
+    "trees": "árboles",
+    "offset": "Compensar con Plantación de Árboles",
+    "breakdown": {
+      "transport": "Transporte",
+      "accommodation": "Alojamiento",
+      "activities": "Actividades",
+      "food": "Comida y Otros"
+    }
+  },
+  "comparisons": {
+    "excellent": "🌱 ¡Excelente! Huella inferior al promedio de safaris.",
+    "good": "👍 ¡Bien! Dentro del promedio para safaris en Tanzania.",
+    "consider": "💡 Considere compensar este viaje con nuestro programa de plantación de árboles."
+  },
+  "ecoTips": {
+    "budget": "Los safaris económicos usan vehículos compartidos y campamentos — ¡menor huella!",
+    "mid": "Los lodges de gama media suelen tener energía solar y conservación de agua.",
+    "luxury": "Los lodges de lujo compensan carbono, pero el transporte privado aumenta la huella.",
+    "flight": "Considere combinar vuelos con traslados por carretera para reducir emisiones.",
+    "drive": "Los vehículos safari son eficientes — ¡ya está haciendo una buena elección!",
+    "mixed": "¡Combinación inteligente! Mezclar tipos de transporte equilibra conveniencia y huella."
+  },
+  "placeholder": {
+    "text": "Complete el formulario y haga clic en calcular para ver la huella de carbono de su viaje"
+  },
+  "initiatives": {
+    "tree": {
+      "title": "Plantación de Árboles",
+      "description": "Plantamos 5 árboles por cada safari reservado a través de nuestros socios de reforestación."
+    },
+    "carbon": {
+      "title": "Compensación de Carbono",
+      "description": "Programa opcional de compensación de carbono disponible para todos nuestros paquetes de viaje."
+    },
+    "water": {
+      "title": "Agua Limpia",
+      "description": "Apoyo a proyectos de agua limpia en comunidades cercanas a parques nacionales."
+    }
+  },
+  "footer": {
+    "note": "* Cálculos basados en directrices de la CMNUCC y viajes sostenibles. La huella real puede variar."
+  }
+}

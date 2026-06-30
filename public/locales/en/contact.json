@@ -1,0 +1,40 @@
+{
+  "section": {
+    "badge": "Get In Touch",
+    "title": "Contact Us",
+    "subtitle": "AA TRAVEL SERVICES (A Division of AA Travels & Tours Ltd) — Karibu Sana!"
+  },
+  "form": {
+    "name": "Your Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "interest": "Select Travel Interest",
+    "message": "Tell us about your dream trip...",
+    "submit": "Send Inquiry",
+    "submitting": "Sending..."
+  },
+  "interests": {
+    "air": "Air Ticketing",
+    "visa": "Visa Services",
+    "safari": "Safari Tours",
+    "zanzibar": "Zanzibar Tour",
+    "corporate": "Corporate Travel Management",
+    "holiday": "Holiday Package",
+    "car": "Car Rental",
+    "other": "Other"
+  },
+  "thankYou": {
+    "title": "Asante Sana! 🇹🇿",
+    "message": "Thank you for choosing AA Travel Services! Our team will get back to you within 24 hours.",
+    "direct": "Meanwhile, feel free to reach us directly:",
+    "newInquiry": "Send Another Inquiry"
+  },
+  "office": {
+    "title": "Our Office",
+    "name": "AA TRAVEL SERVICES",
+    "division": "(A Division of AA Travels & Tours Ltd)",
+    "address1": "13th Floor Derm Plaza",
+    "address2": "New Bagamoyo Rd. Kijitonyama",
+    "address3": "Dar es Salaam - Tanzania"
+  }
+}

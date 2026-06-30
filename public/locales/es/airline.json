@@ -1,0 +1,26 @@
+{
+  "section": {
+    "badge": "Asociaciones de Confianza",
+    "title": "Nuestras Aerolíneas Asociadas",
+    "subtitle": "Fuerte división GSA con asociaciones aéreas exclusivas. Negociamos ofertas corporativas, tarifas de grupo y tarifas especiales para nuestros clientes."
+  },
+  "partners": [
+    { "name": "South African Airways", "img": "/images/logo/south.png" },
+    { "name": "American Airlines", "img": "/images/logo/america.png" },
+    { "name": "Kenya Airways", "img": "/images/logo/kenya.png" },
+    { "name": "Qatar Airways", "img": "/images/logo/qatar.png" },
+    { "name": "Air Canada", "img": "/images/logo/canada.png" },
+    { "name": "Turkish Airlines", "img": "/images/logo/turkish.png" },
+    { "name": "Tanzania Airlines", "img": "/images/logo/tz.jpeg" },
+    { "name": "Swiss Airlines", "img": "/images/logo/swiss.png" },
+    { "name": "France Airlines", "img": "/images/logo/france.png" },
+    { "name": "Precision Airlines", "img": "/images/logo/precision.png" },
+    { "name": "Delta Airlines", "img": "/images/logo/delta.png" },
+    { "name": "British Airways", "img": "/images/logo/british.png" },
+    { "name": "KLM Airlines", "img": "/images/logo/klm.png" },
+    { "name": "Emirates Airlines", "img": "/images/logo/emirates.png" },
+    { "name": "Airlink Airlines", "img": "/images/logo/air.png" },
+    { "name": "Malaysia Airlines", "img": "/images/logo/malaysia.png" },
+    { "name": "Etihad Airlines", "img": "/images/logo/etihad.png" }
+  ]
+}

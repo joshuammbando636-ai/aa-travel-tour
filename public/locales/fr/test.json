@@ -1,0 +1,72 @@
+{
+  "section": {
+    "badge": "Témoignages",
+    "title": "Ce Que Disent Nos Clients"
+  },
+  "filter": {
+    "placeholder": "Filtrer par type",
+    "all": "Tous les Safaris",
+    "family": "Familial",
+    "luxury": "Luxe",
+    "honeymoon": "Lune de Miel"
+  },
+  "testimonials": [
+    {
+      "name": "John M. Lukumbulu",
+      "company": "Llukumbulu Investment Limited",
+      "text": "AA Travel & Tours est notre partenaire de voyage de confiance depuis des années. Leur attention aux détails et leur service personnalisé sont inégalés. Chaque voyage est organisé de manière transparente.",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&q=80",
+      "rating": 5,
+      "type": "family"
+    },
+    {
+      "name": "Sarah K. Mmari",
+      "company": "East Africa Ventures",
+      "text": "Des besoins de voyages d'affaires aux safaris familiaux, AA Travel dépasse toujours les attentes. Leur expertise locale fait toute la différence.",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&q=80",
+      "rating": 5,
+      "type": "luxury"
+    },
+    {
+      "name": "David R. Thompson",
+      "company": "Visiteur International",
+      "text": "Notre trek au Kilimandjaro organisé par AA Travel a été l'expérience d'une vie. Les guides étaient compétents, la logistique impeccable, et les souvenirs inoubliables.",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&q=80",
+      "rating": 5,
+      "type": "family"
+    },
+    {
+      "name": "Grace N. Mushi",
+      "company": "Tanzanian Breweries Ltd",
+      "text": "Leur gestion des voyages d'affaires nous a fait gagner du temps et de l'argent. Le support 24/7 signifie que nous n'avons jamais à nous soucier des changements de dernière minute.",
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&q=80",
+      "rating": 5,
+      "type": "luxury"
+    },
+    {
+      "name": "Michael & Jennifer Chen",
+      "company": "Voyageurs en Lune de Miel",
+      "text": "Notre safari de lune de miel a dépassé toutes les attentes ! AA Travel a arrangé les lodges les plus romantiques et des rencontres inoubliables avec la faune. Le début parfait de notre mariage.",
+      "photo": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=150&q=80",
+      "rating": 5,
+      "type": "honeymoon"
+    },
+    {
+      "name": "La Famille Anderson",
+      "company": "Safari Familial",
+      "text": "Voyager avec des enfants peut être stressant, mais AA Travel a rendu tout cela fluide. Nos enfants ont beaucoup appris et nous avons créé des souvenirs qui dureront éternellement. Hautement recommandé !",
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&q=80",
+      "rating": 5,
+      "type": "family"
+    },
+    {
+      "name": "Robert Kimaro",
+      "company": "Chercheur d'Aventures",
+      "text": "Le safari budget était d'un rapport qualité-prix incroyable ! Ne vous laissez pas tromper par le prix - l'expérience était de classe mondiale. Guides professionnels, excellents camps et faune incroyable.",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&q=80",
+      "rating": 5,
+      "type": "family"
+    }
+  ],
+  "verified": "VERIFIÉ"
+}

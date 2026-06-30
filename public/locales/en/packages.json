@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "title": "Discover Your",
+    "highlight": "Next Adventure",
+    "subtitle": "Curated travel experiences for the upcoming holiday season. Book now and save big!"
+  },
+  "sections": {
+    "featured": "Special Eid & Easter Deals",
+    "whyChoose": "Why Travel With Us"
+  },
+  "labels": {
+    "perPerson": "per person*",
+    "packageId": "Package ID",
+    "duration": "Duration",
+    "validity": "Validity",
+    "inclusions": "Inclusions",
+    "availableDates": "Available Dates",
+    "sendInquiry": "Send Inquiry"
+  },
+  "packages": [
+    {
+      "id": 1,
+      "region": "Europe",
+      "title": "EMBARK ON THE SCENIC JOURNEY OF EUROPE",
+      "description": "Experience the romance of France, the charm of Belgium, the canals of Netherlands, the history of Germany, the Alps of Switzerland, the principality of Liechtenstein, the culture of Austria, and the passion of Italy on this comprehensive European tour.",
+      "duration": "Multi-Country Tour",
+      "countries": ["France", "Belgium", "Netherlands", "Germany", "Switzerland", "Liechtenstein", "Austria", "Italy"],
+      "inclusions": ["Hotel Stay", "Breakfast + Dinner", "Airport Transfers", "Sightseeings", "Tour Manager service"]
+    },
+    {
+      "id": 2,
+      "region": "China",
+      "title": "CANTON FAIR 2026 CHINA",
+      "description": "Perfect for business travelers! Visit the world-renowned Canton Fair with comfortable 4-star accommodation and seamless shuttle service to and from the fair location. Includes Guangzhou city tour and return airport transfers.",
+      "duration": "6 Nights/7 Days",
+      "inclusions": [
+        "6N China Accommodation at 4-star Hotel",
+        "Guangzhou city tour",
+        "Shuttle service To/from Canton Fair",
+        "Return airport transfers"
+      ],
+      "note": "Package rates quoted are subject to fluctuations in the rate of exchange. All rooms, rates and services are subject to availability at the time of confirmation."
+    },
+    {
+      "id": 3,
+      "region": "South Africa",
+      "title": "CELEBRATE EASTER AT THE MOST ICONIC DESTINATION - SOUTH AFRICA",
+      "description": "Celebrate Easter at the most iconic destination with a perfect blend of luxury and adventure.",
+      "duration": "6 Nights/7 Days",
+      "locations": ["Johannesburg", "Sun City", "Pilanesberg"],
+      "inclusions": [
+        "3N Johannesburg accommodation at Peermont D'Oreale Grande or similar (BB basis)",
+        "3N Sun City accommodation at Cascades Hotel or similar (BB basis)",
+        "2N Pilanesberg accommodation at Ivory Tree Lodge or similar (BB basis)",
+        "Complimentary access to Sun City Resort",
+        "Entry into the Valley of Waves"
+      ]
+    },
+    {
+      "id": 4,
+      "region": "South Africa",
+      "title": "EXPLORE AN IMMERSIVE SAFARI EXPERIENCE - SOUTH AFRICA",
+      "description": "Experience the ultimate safari adventure with game drives, winelands tours, and breathtaking views.",
+      "duration": "6 Nights/7 Days",
+      "locations": ["Cape Town", "Aquila Game Reserve"],
+      "inclusions": [
+        "4N Cape Town accommodation at Hotel Sky (4-star) or similar on BB basis",
+        "2N Aquila Game Reserve accommodation at 4-star hotel or similar on FB basis",
+        "Afternoon game drive in an open 4x4 safari vehicle",
+        "Table Mountain & City Tour",
+        "Winelands Tour",
+        "Cape Peninsula Tour"
+      ],
+      "note": "Exchange rate fluctuations may affect the quoted package rates. At the time of confirmation, availability affects all rooms, rates, and services. Rates do not apply to events, trade shows, long weekends, festivals, or blackout dates."
+    },
+    {
+      "id": 5,
+      "region": "South Africa",
+      "title": "CELEBRATE EASTER WITH AN UNFORGETTABLE WILDLIFE ADVENTURE",
+      "description": "Experience thrilling game drives and close encounters with Africa's magnificent wildlife in Kruger National Park.",
+      "duration": "3 Nights/4 Days",
+      "locations": ["Kruger National Park"],
+      "inclusions": [
+        "3N Kruger Accommodation at Kruger Gate lodge or similar on HB basis",
+        "Afternoon safari in Kruger on day 1",
+        "Full-day scheduled safari in Kruger on days 2 & 3",
+        "Morning safari in Kruger on day 4",
+        "Luxury air-conditioned vehicle for transfers",
+        "Open 4 x 4 safari vehicle for game activities in Kruger",
+        "Services of an English-speaking driver only for return transfers",
+        "Services of an English-speaking game ranger for game activities in Kruger",
+        "Full-day safari times 05:30am-16:00pm (Apr-Sep) and 05:00am-15:30pm (Oct-Mar)",
+        "Morning Safari times 05:30am-12:00pm (Apr-Sep) and 05:00am-11:30am (Oct-Mar)",
+        "Afternoon safari times 13:00pm-17:30pm (May-Jul) and 14:00pm-18:00pm (Aug-Apr)"
+      ],
+      "note": "The package rates quoted are subject to fluctuations in the rate of exchange. All rooms, rates and services are subject to availability at the time of confirmation."
+    },
+    {
+      "id": 6,
+      "region": "Dubai",
+      "title": "EXPERIENCE A PREMIUM EID AL FITR CELEBRATION IN DUBAI",
+      "description": "Celebrate Eid in style with luxury accommodations, desert safaris, and iconic Dubai attractions.",
+      "duration": "5 Nights/6 Days",
+      "locations": ["Dubai"],
+      "inclusions": [
+        "5N accommodation – Bed & Breakfast",
+        "Half Day Dubai City Tour (Trio)",
+        "Marina Dhow Cruise with BBQ Dinner (Trio)",
+        "Desert Safari with BBQ Dinner (Trio)",
+        "Dubai Frame – SIC Transfers",
+        "Burj Khalifa 124th Floor visit (Non-Prime Hours)",
+        "Dubai Aquarium & Underwater Zoo",
+        "Combo Ticket – SIC",
+        "Miracle Garden entry + Global Village – SIC",
+        "Return Airport transfers – Private",
+        "All tours and transfers"
+      ],
+      "priceNote": "Per person (Twin/double sharing basis)"
+    },
+    {
+      "id": 7,
+      "region": "South Africa",
+      "title": "BOOK YOUR EASTER GETAWAY TO THE RAINBOW NATION",
+      "description": "Experience the beauty of South Africa with visits to cultural villages, Sun City, and the Valley of Waves.",
+      "duration": "4 Nights/5 Days",
+      "locations": ["Johannesburg", "Sun City"],
+      "inclusions": [
+        "1N Johannesburg accommodation at Metcourt hotel or similar (BB basis)",
+        "3N Sun City accommodation at Cabanas or similar (BB basis)",
+        "Complimentary access to Peermont resort",
+        "Complimentary access to Sun City Resort",
+        "Complimentary access to Valley of Waves waterpark",
+        "Entrance fees for Lesedi cultural village",
+        "Services of an English-speaking guide throughout the tour",
+        "Luxury air-conditioned vehicle for 20 pax. This will include: 1 x local tour guide FOC + 1 Tour Manager FOC"
+      ]
+    },
+    {
+      "id": 8,
+      "region": "South Africa",
+      "title": "BOOK AN EASTER ESCAPE TO SUN CITY",
+      "description": "Enjoy a relaxing Easter getaway with complimentary access to Sun City's world-class amenities.",
+      "duration": "4 Nights/5 Days",
+      "locations": ["Johannesburg", "Sun City"],
+      "inclusions": [
+        "1N Johannesburg accommodation at Mondior Concorde or similar (BB basis)",
+        "3N Sun City accommodation at Cascades Hotel or similar (BB basis)",
+        "Complimentary access to Peermont resort",
+        "Complimentary access to Sun City Resort",
+        "Complimentary access to the Valley of Waves waterpark"
+      ],
+      "note": "The package rates quoted are subject to fluctuations in the rate of exchange. All rooms, rates and services are subject to availability."
+    }
+  ],
+  "whyChoose": [
+    { "title": "Best Price Guarantee", "desc": "Unbeatable prices on all packages" },
+    { "title": "Expert Guides", "desc": "Local experts with deep knowledge" },
+    { "title": "24/7 Support", "desc": "Round-the-clock assistance" },
+    { "title": "Flexible Booking", "desc": "Free cancellation & date changes" }
+  ]
+}

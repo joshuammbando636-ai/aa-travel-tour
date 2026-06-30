@@ -1,0 +1,24 @@
+{
+  "section": {
+    "badge": "Rejoignez Notre Communauté",
+    "title": "Approuvé par les Voyageurs du Monde Entier"
+  },
+  "stats": [
+    { "value": "500+", "label": "Voyages Cette Année" },
+    { "value": "2 000+", "label": "Voyageurs Heureux" },
+    { "value": "50+", "label": "Destinations" }
+  ],
+  "bookingTicker": {
+    "justBooked": "vient de réserver",
+    "from": "de"
+  },
+  "bookings": [
+    { "name": "Sarah", "from": "Londres", "trip": "Safari de la Migration au Serengeti" },
+    { "name": "Michael", "from": "New York", "trip": "Ascension du Kilimandjaro" },
+    { "name": "Akiko", "from": "Tokyo", "trip": "Vacances à la Plage de Zanzibar" },
+    { "name": "Hans", "from": "Berlin", "trip": "Visite du Cratère du Ngorongoro" },
+    { "name": "Maria", "from": "São Paulo", "trip": "Aventure de Suivi des Gorilles" },
+    { "name": "James", "from": "Sydney", "trip": "Forfait Safari de Luxe" },
+    { "name": "Fatima", "from": "Dubaï", "trip": "Expérience Safari en Famille" }
+  ]
+}
